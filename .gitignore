@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments (not currently used, but safe to ignore if created later)
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated reports
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp

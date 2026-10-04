@@ -1,0 +1,11 @@
+state,vehicle_group,total_forecast_demand,average_monthly_demand,safety_stock,recommended_inventory
+Rajasthan,Two Wheeler,9466147.5,1577691.25,242194.66,1819885.91
+Rajasthan,Passenger Vehicle,2522722.25,420453.71,16987.44,437441.15
+Uttar Pradesh,Two Wheeler,1737674.53,289612.42,16524.93,306137.36
+Maharashtra,Two Wheeler,890074.08,148345.68,19191.09,167536.77
+Tamil Nadu,Two Wheeler,861641.46,143606.91,19242.28,162849.19
+Rajasthan,Three Wheeler,768975.8,128162.63,17116.6,145279.23
+Karnataka,Two Wheeler,696028.61,116004.77,14806.87,130811.64
+Bihar,Two Wheeler,623129.37,103854.89,22696.43,126551.32
+Rajasthan,Goods Vehicle,581692.04,96948.67,14039.61,110988.28
+Madhya Pradesh,Two Wheeler,564443.55,94073.93,19306.01,113379.93

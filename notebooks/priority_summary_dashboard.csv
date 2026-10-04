@@ -1,0 +1,4 @@
+inventory_priority,count,total_forecast_demand,total_safety_stock,total_recommended_inventory
+HIGH,34,24927736.53,506488.83,4661111.59
+MEDIUM,62,1625975.31,19482.93,290478.89
+LOW,107,206791.14,7303.96,41769.3

@@ -1,0 +1,204 @@
+state,vehicle_group,predicted_demand
+Rajasthan,Two Wheeler,9466147.5
+Rajasthan,Passenger Vehicle,2522722.25
+Uttar Pradesh,Two Wheeler,1737674.53125
+Maharashtra,Two Wheeler,890074.078125
+Tamil Nadu,Two Wheeler,861641.4609375
+Rajasthan,Three Wheeler,768975.8046875
+Karnataka,Two Wheeler,696028.609375
+Bihar,Two Wheeler,623129.3671875
+Rajasthan,Goods Vehicle,581692.0390625
+Madhya Pradesh,Two Wheeler,564443.5546875
+West Bengal,Two Wheeler,522018.9375
+Arunachal Pradesh,Two Wheeler,505826.2265625
+Gujarat,Two Wheeler,489980.1796875
+Andhra Pradesh,Two Wheeler,462830.8828125
+Odisha,Two Wheeler,412291.6015625
+Uttar Pradesh,Passenger Vehicle,339247.07421875
+Maharashtra,Passenger Vehicle,299083.20703125
+Kerala,Two Wheeler,271343.3828125
+Chhattisgarh,Two Wheeler,250488.328125
+Assam,Two Wheeler,238433.0390625
+Jharkhand,Two Wheeler,227225.21875
+Haryana,Two Wheeler,223775.23828125
+Punjab,Two Wheeler,217249.98828125
+Delhi,Two Wheeler,211058.44921875
+Karnataka,Passenger Vehicle,186673.29296875
+Gujarat,Passenger Vehicle,183994.98828125
+Haryana,Passenger Vehicle,177674.37109375
+Uttar Pradesh,Three Wheeler,172827.560546875
+Tamil Nadu,Passenger Vehicle,167619.5234375
+Madhya Pradesh,Passenger Vehicle,151142.560546875
+Punjab,Passenger Vehicle,130181.048828125
+Uttarakhand,Two Wheeler,129461.677734375
+Delhi,Passenger Vehicle,122400.02734375
+Kerala,Passenger Vehicle,122380.52734375
+Arunachal Pradesh,Passenger Vehicle,56563.138671875
+Bihar,Three Wheeler,56446.23046875
+Andhra Pradesh,Passenger Vehicle,56404.0478515625
+Odisha,Passenger Vehicle,55812.7958984375
+Chhattisgarh,Passenger Vehicle,55812.7958984375
+West Bengal,Passenger Vehicle,48775.61572265625
+Rajasthan,Passenger Transport,48548.66845703125
+Jammu And Kashmir,Two Wheeler,48084.779296875
+Bihar,Passenger Vehicle,46970.3740234375
+Maharashtra,Goods Vehicle,44895.1376953125
+Andhra Pradesh,Three Wheeler,44712.00146484375
+Himachal Pradesh,Two Wheeler,39042.41845703125
+Assam,Passenger Vehicle,38177.66748046875
+Assam,Three Wheeler,34449.92431640625
+Gujarat,Three Wheeler,34449.92431640625
+Karnataka,Three Wheeler,34283.76708984375
+Uttarakhand,Passenger Vehicle,33627.00732421875
+Puducherry,Two Wheeler,33065.60107421875
+Tripura,Two Wheeler,32177.22412109375
+Uttar Pradesh,Goods Vehicle,30036.80712890625
+Himachal Pradesh,Passenger Vehicle,29497.04150390625
+Karnataka,Goods Vehicle,29276.18994140625
+Gujarat,Goods Vehicle,29273.43896484375
+Maharashtra,Three Wheeler,28455.03857421875
+Arunachal Pradesh,Goods Vehicle,26655.66796875
+Bihar,Goods Vehicle,25929.12548828125
+Goa,Two Wheeler,25915.873046875
+Madhya Pradesh,Three Wheeler,25912.35595703125
+Haryana,Goods Vehicle,25809.44970703125
+Delhi,Three Wheeler,25436.25537109375
+Meghalaya,Two Wheeler,25180.794921875
+Tamil Nadu,Goods Vehicle,24905.7421875
+Jammu And Kashmir,Passenger Vehicle,24714.432861328125
+Punjab,Three Wheeler,24246.167724609375
+Haryana,Three Wheeler,24246.167724609375
+Assam,Goods Vehicle,24246.167724609375
+Tamil Nadu,Three Wheeler,23972.193115234375
+Jharkhand,Passenger Vehicle,22854.021240234375
+Madhya Pradesh,Goods Vehicle,22274.786865234375
+West Bengal,Goods Vehicle,22274.786865234375
+Chhattisgarh,Goods Vehicle,22274.786865234375
+Odisha,Goods Vehicle,21157.220458984375
+Rajasthan,Other Motor Vehicle,18159.585693359375
+Kerala,Three Wheeler,14946.857177734375
+Arunachal Pradesh,Three Wheeler,14525.482666015625
+Mizoram,Two Wheeler,13082.158935546875
+Jharkhand,Goods Vehicle,11417.933959960938
+Chandigarh,Two Wheeler,11222.676635742188
+Manipur,Two Wheeler,10616.169799804688
+Andhra Pradesh,Passenger Transport,9949.159301757812
+Andhra Pradesh,Other Motor Vehicle,9949.159301757812
+The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,8551.482666015625
+Sikkim,Two Wheeler,8551.482666015625
+Odisha,Three Wheeler,8481.973266601562
+Andaman And Nicobar Islands,Two Wheeler,8415.556640625
+Nagaland,Two Wheeler,8161.96484375
+Kerala,Goods Vehicle,7718.7786865234375
+Andaman And Nicobar Islands,Passenger Transport,7460.2359619140625
+Andhra Pradesh,Goods Vehicle,7254.8834228515625
+Punjab,Goods Vehicle,7195.630859375
+Chandigarh,Passenger Transport,7098.5906982421875
+Chandigarh,Passenger Vehicle,6371.8936767578125
+Jharkhand,Three Wheeler,5399.3402099609375
+Kerala,Passenger Transport,4418.95361328125
+Uttarakhand,Three Wheeler,4118.63720703125
+Tripura,Three Wheeler,4013.3443603515625
+West Bengal,Three Wheeler,3902.134521484375
+Chhattisgarh,Three Wheeler,3792.8358154296875
+Himachal Pradesh,Goods Vehicle,3792.8358154296875
+Puducherry,Passenger Vehicle,3792.8358154296875
+Nagaland,Passenger Vehicle,3792.8358154296875
+Jammu And Kashmir,Three Wheeler,3792.8358154296875
+Meghalaya,Passenger Vehicle,3792.8358154296875
+Tamil Nadu,Passenger Transport,3696.1751708984375
+Haryana,Passenger Transport,3656.9097900390625
+Sikkim,Passenger Vehicle,3656.9097900390625
+Tripura,Passenger Vehicle,3656.9097900390625
+Arunachal Pradesh,Passenger Transport,3431.3898315429688
+Delhi,Goods Vehicle,3339.0811462402344
+Ladakh,Two Wheeler,3255.5855102539062
+Goa,Passenger Vehicle,3052.2245178222656
+Puducherry,Three Wheeler,3050.1732788085938
+Manipur,Three Wheeler,3050.1732788085938
+Puducherry,Goods Vehicle,3050.1732788085938
+Goa,Passenger Transport,3050.1732788085938
+Jammu And Kashmir,Passenger Transport,3050.1732788085938
+The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,3050.1732788085938
+Sikkim,Goods Vehicle,3050.1732788085938
+Karnataka,Passenger Transport,3032.058837890625
+Uttarakhand,Passenger Transport,2871.1170654296875
+Nagaland,Three Wheeler,2765.824188232422
+Chhattisgarh,Other Motor Vehicle,2765.824188232422
+Chandigarh,Three Wheeler,2765.824188232422
+Haryana,Other Motor Vehicle,2765.824188232422
+Assam,Other Motor Vehicle,2765.824188232422
+Chandigarh,Goods Vehicle,2765.824188232422
+Himachal Pradesh,Other Motor Vehicle,2765.824188232422
+Andaman And Nicobar Islands,Passenger Vehicle,2765.824188232422
+Andaman And Nicobar Islands,Goods Vehicle,2765.824188232422
+Bihar,Other Motor Vehicle,2765.824188232422
+Goa,Three Wheeler,2765.824188232422
+Jharkhand,Passenger Transport,2765.824188232422
+Madhya Pradesh,Other Motor Vehicle,2765.824188232422
+Tripura,Other Motor Vehicle,2765.824188232422
+Tripura,Goods Vehicle,2765.824188232422
+Ladakh,Passenger Vehicle,2765.824188232422
+Manipur,Goods Vehicle,2765.824188232422
+Maharashtra,Passenger Transport,2764.6806030273438
+Punjab,Passenger Transport,2673.6884155273438
+Maharashtra,Other Motor Vehicle,2673.6884155273438
+West Bengal,Passenger Transport,2256.72216796875
+Jammu And Kashmir,Goods Vehicle,2123.413360595703
+Uttarakhand,Goods Vehicle,2049.8749237060547
+Nagaland,Passenger Transport,1985.4819946289062
+Ladakh,Goods Vehicle,1972.3731079101562
+Odisha,Passenger Transport,1972.3731079101562
+Nagaland,Goods Vehicle,1861.9938659667969
+Mizoram,Passenger Transport,1819.9871520996094
+Mizoram,Other Motor Vehicle,1819.9871520996094
+Kerala,Other Motor Vehicle,1674.441650390625
+Assam,Passenger Transport,1651.9894104003906
+Manipur,Passenger Vehicle,1651.9894104003906
+Himachal Pradesh,Three Wheeler,1473.1583404541016
+Ladakh,Passenger Transport,1392.2148132324219
+Himachal Pradesh,Passenger Transport,1367.6405029296875
+Meghalaya,Three Wheeler,1188.8092880249023
+Madhya Pradesh,Passenger Transport,1188.8092880249023
+Ladakh,Other Motor Vehicle,1107.8657302856445
+Sikkim,Other Motor Vehicle,1107.8657302856445
+Manipur,Passenger Transport,1107.8657302856445
+Chandigarh,Other Motor Vehicle,1107.8657302856445
+Delhi,Other Motor Vehicle,1107.8657302856445
+Goa,Other Motor Vehicle,1107.8657302856445
+Andaman And Nicobar Islands,Other Motor Vehicle,1107.8657302856445
+Puducherry,Other Motor Vehicle,1107.8657302856445
+Manipur,Other Motor Vehicle,1107.8657302856445
+Meghalaya,Other Motor Vehicle,1107.8657302856445
+Mizoram,Three Wheeler,1083.0778121948242
+Uttar Pradesh,Passenger Transport,1042.381950378418
+The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,1042.381950378418
+Mizoram,Passenger Vehicle,962.1967086791992
+Mizoram,Goods Vehicle,798.7288436889648
+West Bengal,Other Motor Vehicle,536.3900909423828
+Gujarat,Other Motor Vehicle,400.16688537597656
+Gujarat,Passenger Transport,400.16688537597656
+Sikkim,Passenger Transport,377.0430145263672
+Ladakh,Three Wheeler,377.0430145263672
+Meghalaya,Goods Vehicle,299.43262100219727
+Karnataka,Other Motor Vehicle,299.43262100219727
+Chhattisgarh,Passenger Transport,299.43262100219727
+Bihar,Passenger Transport,299.43262100219727
+Delhi,Passenger Transport,299.43262100219727
+Goa,Goods Vehicle,299.43262100219727
+The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,299.43262100219727
+Uttar Pradesh,Other Motor Vehicle,299.43262100219727
+Nagaland,Other Motor Vehicle,299.43262100219727
+Uttarakhand,Other Motor Vehicle,268.5022678375244
+Tamil Nadu,Other Motor Vehicle,218.882173538208
+The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,176.8961009979248
+Meghalaya,Passenger Transport,163.20938301086426
+Jharkhand,Other Motor Vehicle,163.20938301086426
+Puducherry,Passenger Transport,163.20938301086426
+Odisha,Other Motor Vehicle,163.20938301086426
+Tripura,Passenger Transport,163.20938301086426
+Punjab,Other Motor Vehicle,163.20938301086426
+The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,163.20938301086426
+Jammu And Kashmir,Other Motor Vehicle,0.0
+Andaman And Nicobar Islands,Three Wheeler,0.0
+Arunachal Pradesh,Other Motor Vehicle,0.0

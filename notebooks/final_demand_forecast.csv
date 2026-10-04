@@ -1,0 +1,1219 @@
+month,state,vehicle_group,predicted_demand
+2024-05-01,Andaman And Nicobar Islands,Goods Vehicle,369.93414306640625
+2024-05-01,Andaman And Nicobar Islands,Other Motor Vehicle,93.60794830322266
+2024-05-01,Andaman And Nicobar Islands,Passenger Transport,1152.33642578125
+2024-05-01,Andaman And Nicobar Islands,Passenger Vehicle,369.93414306640625
+2024-05-01,Andaman And Nicobar Islands,Three Wheeler,0.0
+2024-05-01,Andaman And Nicobar Islands,Two Wheeler,1178.82763671875
+2024-05-01,Andhra Pradesh,Goods Vehicle,2712.0234375
+2024-05-01,Andhra Pradesh,Other Motor Vehicle,1406.7679443359375
+2024-05-01,Andhra Pradesh,Passenger Transport,1406.7679443359375
+2024-05-01,Andhra Pradesh,Passenger Vehicle,8942.5927734375
+2024-05-01,Andhra Pradesh,Three Wheeler,8188.17919921875
+2024-05-01,Andhra Pradesh,Two Wheeler,73710.9375
+2024-05-01,Arunachal Pradesh,Goods Vehicle,3719.946533203125
+2024-05-01,Arunachal Pradesh,Other Motor Vehicle,0.0
+2024-05-01,Arunachal Pradesh,Passenger Transport,480.8616943359375
+2024-05-01,Arunachal Pradesh,Passenger Vehicle,8308.6279296875
+2024-05-01,Arunachal Pradesh,Three Wheeler,1422.1380615234375
+2024-05-01,Arunachal Pradesh,Two Wheeler,79400.0859375
+2024-05-01,Assam,Goods Vehicle,3946.369384765625
+2024-05-01,Assam,Other Motor Vehicle,369.93414306640625
+2024-05-01,Assam,Passenger Transport,184.29519653320312
+2024-05-01,Assam,Passenger Vehicle,6244.259765625
+2024-05-01,Assam,Three Wheeler,5622.96923828125
+2024-05-01,Assam,Two Wheeler,38339.71875
+2024-05-01,Bihar,Goods Vehicle,4226.86376953125
+2024-05-01,Bihar,Other Motor Vehicle,369.93414306640625
+2024-05-01,Bihar,Passenger Transport,0.0
+2024-05-01,Bihar,Passenger Vehicle,7982.19091796875
+2024-05-01,Bihar,Three Wheeler,9289.0224609375
+2024-05-01,Bihar,Two Wheeler,91130.078125
+2024-05-01,Chandigarh,Goods Vehicle,369.93414306640625
+2024-05-01,Chandigarh,Other Motor Vehicle,93.60794830322266
+2024-05-01,Chandigarh,Passenger Transport,1092.06201171875
+2024-05-01,Chandigarh,Passenger Vehicle,967.3255615234375
+2024-05-01,Chandigarh,Three Wheeler,369.93414306640625
+2024-05-01,Chandigarh,Two Wheeler,1643.060791015625
+2024-05-01,Chhattisgarh,Goods Vehicle,3617.807373046875
+2024-05-01,Chhattisgarh,Other Motor Vehicle,369.93414306640625
+2024-05-01,Chhattisgarh,Passenger Transport,0.0
+2024-05-01,Chhattisgarh,Passenger Vehicle,9183.44921875
+2024-05-01,Chhattisgarh,Three Wheeler,537.4822998046875
+2024-05-01,Chhattisgarh,Two Wheeler,40348.93359375
+2024-05-01,Delhi,Goods Vehicle,461.8565368652344
+2024-05-01,Delhi,Other Motor Vehicle,93.60794830322266
+2024-05-01,Delhi,Passenger Transport,0.0
+2024-05-01,Delhi,Passenger Vehicle,20099.1484375
+2024-05-01,Delhi,Three Wheeler,4144.71875
+2024-05-01,Delhi,Two Wheeler,33859.671875
+2024-05-01,Goa,Goods Vehicle,0.0
+2024-05-01,Goa,Other Motor Vehicle,93.60794830322266
+2024-05-01,Goa,Passenger Transport,417.3256530761719
+2024-05-01,Goa,Passenger Vehicle,414.0472106933594
+2024-05-01,Goa,Three Wheeler,369.93414306640625
+2024-05-01,Goa,Two Wheeler,4091.92578125
+2024-05-01,Gujarat,Goods Vehicle,4760.2216796875
+2024-05-01,Gujarat,Other Motor Vehicle,0.0
+2024-05-01,Gujarat,Passenger Transport,0.0
+2024-05-01,Gujarat,Passenger Vehicle,28404.08984375
+2024-05-01,Gujarat,Three Wheeler,5622.96923828125
+2024-05-01,Gujarat,Two Wheeler,75164.78125
+2024-05-01,Haryana,Goods Vehicle,4182.89013671875
+2024-05-01,Haryana,Other Motor Vehicle,369.93414306640625
+2024-05-01,Haryana,Passenger Transport,518.4482421875
+2024-05-01,Haryana,Passenger Vehicle,27350.654296875
+2024-05-01,Haryana,Three Wheeler,3946.369384765625
+2024-05-01,Haryana,Two Wheeler,34901.40625
+2024-05-01,Himachal Pradesh,Goods Vehicle,537.4822998046875
+2024-05-01,Himachal Pradesh,Other Motor Vehicle,369.93414306640625
+2024-05-01,Himachal Pradesh,Passenger Transport,136.90370178222656
+2024-05-01,Himachal Pradesh,Passenger Vehicle,4797.48876953125
+2024-05-01,Himachal Pradesh,Three Wheeler,154.4900360107422
+2024-05-01,Himachal Pradesh,Two Wheeler,6255.65625
+2024-05-01,Jammu And Kashmir,Goods Vehicle,259.245361328125
+2024-05-01,Jammu And Kashmir,Other Motor Vehicle,0.0
+2024-05-01,Jammu And Kashmir,Passenger Transport,417.3256530761719
+2024-05-01,Jammu And Kashmir,Passenger Vehicle,4272.8671875
+2024-05-01,Jammu And Kashmir,Three Wheeler,537.4822998046875
+2024-05-01,Jammu And Kashmir,Two Wheeler,8035.19677734375
+2024-05-01,Jharkhand,Goods Vehicle,1808.332275390625
+2024-05-01,Jharkhand,Other Motor Vehicle,0.0
+2024-05-01,Jharkhand,Passenger Transport,369.93414306640625
+2024-05-01,Jharkhand,Passenger Vehicle,3962.797119140625
+2024-05-01,Jharkhand,Three Wheeler,805.2332763671875
+2024-05-01,Jharkhand,Two Wheeler,35444.94140625
+2024-05-01,Karnataka,Goods Vehicle,4760.68017578125
+2024-05-01,Karnataka,Other Motor Vehicle,0.0
+2024-05-01,Karnataka,Passenger Transport,414.30645751953125
+2024-05-01,Karnataka,Passenger Vehicle,28850.474609375
+2024-05-01,Karnataka,Three Wheeler,5595.2763671875
+2024-05-01,Karnataka,Two Wheeler,107446.4921875
+2024-05-01,Kerala,Goods Vehicle,1191.806396484375
+2024-05-01,Kerala,Other Motor Vehicle,188.03717041015625
+2024-05-01,Kerala,Passenger Transport,645.4556884765625
+2024-05-01,Kerala,Passenger Vehicle,20380.62109375
+2024-05-01,Kerala,Three Wheeler,2396.486083984375
+2024-05-01,Kerala,Two Wheeler,43088.89453125
+2024-05-01,Ladakh,Goods Vehicle,237.69235229492188
+2024-05-01,Ladakh,Other Motor Vehicle,93.60794830322266
+2024-05-01,Ladakh,Passenger Transport,140.99945068359375
+2024-05-01,Ladakh,Passenger Vehicle,369.93414306640625
+2024-05-01,Ladakh,Three Wheeler,0.0
+2024-05-01,Ladakh,Two Wheeler,449.45245361328125
+2024-05-01,Madhya Pradesh,Goods Vehicle,3617.807373046875
+2024-05-01,Madhya Pradesh,Other Motor Vehicle,369.93414306640625
+2024-05-01,Madhya Pradesh,Passenger Transport,107.0985336303711
+2024-05-01,Madhya Pradesh,Passenger Vehicle,23958.041015625
+2024-05-01,Madhya Pradesh,Three Wheeler,4224.06884765625
+2024-05-01,Madhya Pradesh,Two Wheeler,82479.328125
+2024-05-01,Maharashtra,Goods Vehicle,7466.39208984375
+2024-05-01,Maharashtra,Other Motor Vehicle,354.5782470703125
+2024-05-01,Maharashtra,Passenger Transport,369.7436218261719
+2024-05-01,Maharashtra,Passenger Vehicle,46866.71875
+2024-05-01,Maharashtra,Three Wheeler,4896.30126953125
+2024-05-01,Maharashtra,Two Wheeler,139405.65625
+2024-05-01,Manipur,Goods Vehicle,369.93414306640625
+2024-05-01,Manipur,Other Motor Vehicle,93.60794830322266
+2024-05-01,Manipur,Passenger Transport,93.60794830322266
+2024-05-01,Manipur,Passenger Vehicle,184.29519653320312
+2024-05-01,Manipur,Three Wheeler,417.3256530761719
+2024-05-01,Manipur,Two Wheeler,1541.9761962890625
+2024-05-01,Meghalaya,Goods Vehicle,0.0
+2024-05-01,Meghalaya,Other Motor Vehicle,93.60794830322266
+2024-05-01,Meghalaya,Passenger Transport,0.0
+2024-05-01,Meghalaya,Passenger Vehicle,537.4822998046875
+2024-05-01,Meghalaya,Three Wheeler,107.0985336303711
+2024-05-01,Meghalaya,Two Wheeler,3969.413818359375
+2024-05-01,Mizoram,Goods Vehicle,42.084999084472656
+2024-05-01,Mizoram,Other Motor Vehicle,212.2947998046875
+2024-05-01,Mizoram,Passenger Transport,212.2947998046875
+2024-05-01,Mizoram,Passenger Vehicle,69.32962799072266
+2024-05-01,Mizoram,Three Wheeler,89.47649383544922
+2024-05-01,Mizoram,Two Wheeler,2059.601806640625
+2024-05-01,Nagaland,Goods Vehicle,215.67544555664062
+2024-05-01,Nagaland,Other Motor Vehicle,0.0
+2024-05-01,Nagaland,Passenger Transport,239.87716674804688
+2024-05-01,Nagaland,Passenger Vehicle,537.4822998046875
+2024-05-01,Nagaland,Three Wheeler,369.93414306640625
+2024-05-01,Nagaland,Two Wheeler,1239.569091796875
+2024-05-01,Odisha,Goods Vehicle,3431.546630859375
+2024-05-01,Odisha,Other Motor Vehicle,0.0
+2024-05-01,Odisha,Passenger Transport,237.69235229492188
+2024-05-01,Odisha,Passenger Vehicle,9183.44921875
+2024-05-01,Odisha,Three Wheeler,1319.0054931640625
+2024-05-01,Odisha,Two Wheeler,65615.0546875
+2024-05-01,Puducherry,Goods Vehicle,417.3256530761719
+2024-05-01,Puducherry,Other Motor Vehicle,93.60794830322266
+2024-05-01,Puducherry,Passenger Transport,0.0
+2024-05-01,Puducherry,Passenger Vehicle,537.4822998046875
+2024-05-01,Puducherry,Three Wheeler,417.3256530761719
+2024-05-01,Puducherry,Two Wheeler,5259.52001953125
+2024-05-01,Punjab,Goods Vehicle,1104.614990234375
+2024-05-01,Punjab,Other Motor Vehicle,0.0
+2024-05-01,Punjab,Passenger Transport,354.5782470703125
+2024-05-01,Punjab,Passenger Vehicle,21270.98828125
+2024-05-01,Punjab,Three Wheeler,3946.369384765625
+2024-05-01,Punjab,Two Wheeler,34809.2109375
+2024-05-01,Rajasthan,Goods Vehicle,89972.7578125
+2024-05-01,Rajasthan,Other Motor Vehicle,2970.684326171875
+2024-05-01,Rajasthan,Passenger Transport,7921.25537109375
+2024-05-01,Rajasthan,Passenger Vehicle,414639.625
+2024-05-01,Rajasthan,Three Wheeler,119543.03125
+2024-05-01,Rajasthan,Two Wheeler,1525189.125
+2024-05-01,Sikkim,Goods Vehicle,417.3256530761719
+2024-05-01,Sikkim,Other Motor Vehicle,93.60794830322266
+2024-05-01,Sikkim,Passenger Transport,0.0
+2024-05-01,Sikkim,Passenger Vehicle,518.4482421875
+2024-05-01,Sikkim,Two Wheeler,1197.8616943359375
+2024-05-01,Tamil Nadu,Goods Vehicle,4304.751953125
+2024-05-01,Tamil Nadu,Other Motor Vehicle,0.0
+2024-05-01,Tamil Nadu,Passenger Transport,521.3721923828125
+2024-05-01,Tamil Nadu,Passenger Vehicle,26431.72265625
+2024-05-01,Tamil Nadu,Three Wheeler,3886.426513671875
+2024-05-01,Tamil Nadu,Two Wheeler,129933.4296875
+2024-05-01,The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,0.0
+2024-05-01,The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,0.0
+2024-05-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,0.0
+2024-05-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,82.69391632080078
+2024-05-01,The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,417.3256530761719
+2024-05-01,The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,1197.8616943359375
+2024-05-01,Tripura,Goods Vehicle,369.93414306640625
+2024-05-01,Tripura,Other Motor Vehicle,369.93414306640625
+2024-05-01,Tripura,Passenger Transport,0.0
+2024-05-01,Tripura,Passenger Vehicle,518.4482421875
+2024-05-01,Tripura,Three Wheeler,574.2337646484375
+2024-05-01,Tripura,Two Wheeler,5135.48486328125
+2024-05-01,Uttar Pradesh,Goods Vehicle,4887.44970703125
+2024-05-01,Uttar Pradesh,Other Motor Vehicle,0.0
+2024-05-01,Uttar Pradesh,Passenger Transport,82.69391632080078
+2024-05-01,Uttar Pradesh,Passenger Vehicle,52805.56640625
+2024-05-01,Uttar Pradesh,Three Wheeler,28403.740234375
+2024-05-01,Uttar Pradesh,Two Wheeler,285942.6875
+2024-05-01,Uttarakhand,Goods Vehicle,229.44017028808594
+2024-05-01,Uttarakhand,Other Motor Vehicle,0.0
+2024-05-01,Uttarakhand,Passenger Transport,369.93414306640625
+2024-05-01,Uttarakhand,Passenger Vehicle,5371.9326171875
+2024-05-01,Uttarakhand,Three Wheeler,574.2337646484375
+2024-05-01,Uttarakhand,Two Wheeler,21041.720703125
+2024-05-01,West Bengal,Goods Vehicle,3617.807373046875
+2024-05-01,West Bengal,Other Motor Vehicle,0.0
+2024-05-01,West Bengal,Passenger Transport,285.0838623046875
+2024-05-01,West Bengal,Passenger Vehicle,8113.1376953125
+2024-05-01,West Bengal,Three Wheeler,555.6988525390625
+2024-05-01,West Bengal,Two Wheeler,83183.34375
+2024-06-01,Andaman And Nicobar Islands,Goods Vehicle,470.6049499511719
+2024-06-01,Andaman And Nicobar Islands,Other Motor Vehicle,194.27857971191406
+2024-06-01,Andaman And Nicobar Islands,Passenger Transport,1253.0069580078125
+2024-06-01,Andaman And Nicobar Islands,Passenger Vehicle,470.6049499511719
+2024-06-01,Andaman And Nicobar Islands,Three Wheeler,0.0
+2024-06-01,Andaman And Nicobar Islands,Two Wheeler,1279.49853515625
+2024-06-01,Andhra Pradesh,Goods Vehicle,2812.694091796875
+2024-06-01,Andhra Pradesh,Other Motor Vehicle,1507.4385986328125
+2024-06-01,Andhra Pradesh,Passenger Transport,1507.4385986328125
+2024-06-01,Andhra Pradesh,Passenger Vehicle,9043.2626953125
+2024-06-01,Andhra Pradesh,Three Wheeler,8288.8505859375
+2024-06-01,Andhra Pradesh,Two Wheeler,74938.765625
+2024-06-01,Arunachal Pradesh,Goods Vehicle,3820.616455078125
+2024-06-01,Arunachal Pradesh,Other Motor Vehicle,0.0
+2024-06-01,Arunachal Pradesh,Passenger Transport,581.53271484375
+2024-06-01,Arunachal Pradesh,Passenger Vehicle,9024.3427734375
+2024-06-01,Arunachal Pradesh,Three Wheeler,1522.8089599609375
+2024-06-01,Arunachal Pradesh,Two Wheeler,81222.6015625
+2024-06-01,Assam,Goods Vehicle,4047.042236328125
+2024-06-01,Assam,Other Motor Vehicle,470.6049499511719
+2024-06-01,Assam,Passenger Transport,284.96588134765625
+2024-06-01,Assam,Passenger Vehicle,6344.9306640625
+2024-06-01,Assam,Three Wheeler,5723.64013671875
+2024-06-01,Assam,Two Wheeler,38440.390625
+2024-06-01,Bihar,Goods Vehicle,4327.53466796875
+2024-06-01,Bihar,Other Motor Vehicle,470.6049499511719
+2024-06-01,Bihar,Passenger Transport,51.31353759765625
+2024-06-01,Bihar,Passenger Vehicle,7755.8857421875
+2024-06-01,Bihar,Three Wheeler,9389.6923828125
+2024-06-01,Bihar,Two Wheeler,95813.9609375
+2024-06-01,Chandigarh,Goods Vehicle,470.6049499511719
+2024-06-01,Chandigarh,Other Motor Vehicle,194.27857971191406
+2024-06-01,Chandigarh,Passenger Transport,1192.7327880859375
+2024-06-01,Chandigarh,Passenger Vehicle,1067.996337890625
+2024-06-01,Chandigarh,Three Wheeler,470.6049499511719
+2024-06-01,Chandigarh,Two Wheeler,1743.7315673828125
+2024-06-01,Chhattisgarh,Goods Vehicle,3718.478759765625
+2024-06-01,Chhattisgarh,Other Motor Vehicle,470.6049499511719
+2024-06-01,Chhattisgarh,Passenger Transport,51.31353759765625
+2024-06-01,Chhattisgarh,Passenger Vehicle,9284.1201171875
+2024-06-01,Chhattisgarh,Three Wheeler,638.1533203125
+2024-06-01,Chhattisgarh,Two Wheeler,40449.60546875
+2024-06-01,Delhi,Goods Vehicle,562.527587890625
+2024-06-01,Delhi,Other Motor Vehicle,194.27857971191406
+2024-06-01,Delhi,Passenger Transport,51.31353759765625
+2024-06-01,Delhi,Passenger Vehicle,19872.845703125
+2024-06-01,Delhi,Three Wheeler,4245.3896484375
+2024-06-01,Delhi,Two Wheeler,33960.33984375
+2024-06-01,Goa,Goods Vehicle,51.31353759765625
+2024-06-01,Goa,Other Motor Vehicle,194.27857971191406
+2024-06-01,Goa,Passenger Transport,517.9965209960938
+2024-06-01,Goa,Passenger Vehicle,514.7181396484375
+2024-06-01,Goa,Three Wheeler,470.6049499511719
+2024-06-01,Goa,Two Wheeler,4192.59814453125
+2024-06-01,Gujarat,Goods Vehicle,4860.892578125
+2024-06-01,Gujarat,Other Motor Vehicle,71.46038055419922
+2024-06-01,Gujarat,Passenger Transport,71.46038055419922
+2024-06-01,Gujarat,Passenger Vehicle,28504.76171875
+2024-06-01,Gujarat,Three Wheeler,5723.64013671875
+2024-06-01,Gujarat,Two Wheeler,77458.4375
+2024-06-01,Haryana,Goods Vehicle,4283.56103515625
+2024-06-01,Haryana,Other Motor Vehicle,470.6049499511719
+2024-06-01,Haryana,Passenger Transport,619.1192626953125
+2024-06-01,Haryana,Passenger Vehicle,27451.326171875
+2024-06-01,Haryana,Three Wheeler,4047.042236328125
+2024-06-01,Haryana,Two Wheeler,35002.07421875
+2024-06-01,Himachal Pradesh,Goods Vehicle,638.1533203125
+2024-06-01,Himachal Pradesh,Other Motor Vehicle,470.6049499511719
+2024-06-01,Himachal Pradesh,Passenger Transport,237.57437133789062
+2024-06-01,Himachal Pradesh,Passenger Vehicle,4898.15966796875
+2024-06-01,Himachal Pradesh,Three Wheeler,255.16067504882812
+2024-06-01,Himachal Pradesh,Two Wheeler,6356.3271484375
+2024-06-01,Jammu And Kashmir,Goods Vehicle,359.9162292480469
+2024-06-01,Jammu And Kashmir,Other Motor Vehicle,0.0
+2024-06-01,Jammu And Kashmir,Passenger Transport,517.9965209960938
+2024-06-01,Jammu And Kashmir,Passenger Vehicle,4046.563232421875
+2024-06-01,Jammu And Kashmir,Three Wheeler,638.1533203125
+2024-06-01,Jammu And Kashmir,Two Wheeler,7808.89208984375
+2024-06-01,Jharkhand,Goods Vehicle,1909.0030517578125
+2024-06-01,Jharkhand,Other Motor Vehicle,24.068878173828125
+2024-06-01,Jharkhand,Passenger Transport,470.6049499511719
+2024-06-01,Jharkhand,Passenger Vehicle,3736.494384765625
+2024-06-01,Jharkhand,Three Wheeler,905.904052734375
+2024-06-01,Jharkhand,Two Wheeler,35218.63671875
+2024-06-01,Karnataka,Goods Vehicle,4861.35107421875
+2024-06-01,Karnataka,Other Motor Vehicle,51.31353759765625
+2024-06-01,Karnataka,Passenger Transport,514.9774780273438
+2024-06-01,Karnataka,Passenger Vehicle,28951.146484375
+2024-06-01,Karnataka,Three Wheeler,5695.947265625
+2024-06-01,Karnataka,Two Wheeler,109740.1484375
+2024-06-01,Kerala,Goods Vehicle,1292.4771728515625
+2024-06-01,Kerala,Other Motor Vehicle,288.7078857421875
+2024-06-01,Kerala,Passenger Transport,746.1265869140625
+2024-06-01,Kerala,Passenger Vehicle,20154.318359375
+2024-06-01,Kerala,Three Wheeler,2497.156982421875
+2024-06-01,Kerala,Two Wheeler,43189.56640625
+2024-06-01,Ladakh,Goods Vehicle,338.3631896972656
+2024-06-01,Ladakh,Other Motor Vehicle,194.27857971191406
+2024-06-01,Ladakh,Passenger Transport,241.67007446289062
+2024-06-01,Ladakh,Passenger Vehicle,470.6049499511719
+2024-06-01,Ladakh,Three Wheeler,66.83563995361328
+2024-06-01,Ladakh,Two Wheeler,521.33203125
+2024-06-01,Madhya Pradesh,Goods Vehicle,3718.478759765625
+2024-06-01,Madhya Pradesh,Other Motor Vehicle,470.6049499511719
+2024-06-01,Madhya Pradesh,Passenger Transport,207.76914978027344
+2024-06-01,Madhya Pradesh,Passenger Vehicle,23731.73828125
+2024-06-01,Madhya Pradesh,Three Wheeler,4324.73974609375
+2024-06-01,Madhya Pradesh,Two Wheeler,87163.1953125
+2024-06-01,Maharashtra,Goods Vehicle,7240.0869140625
+2024-06-01,Maharashtra,Other Motor Vehicle,455.2490234375
+2024-06-01,Maharashtra,Passenger Transport,470.4145202636719
+2024-06-01,Maharashtra,Passenger Vehicle,47767.5625
+2024-06-01,Maharashtra,Three Wheeler,4669.99658203125
+2024-06-01,Maharashtra,Two Wheeler,142380.515625
+2024-06-01,Manipur,Goods Vehicle,470.6049499511719
+2024-06-01,Manipur,Other Motor Vehicle,194.27857971191406
+2024-06-01,Manipur,Passenger Transport,194.27857971191406
+2024-06-01,Manipur,Passenger Vehicle,284.96588134765625
+2024-06-01,Manipur,Three Wheeler,517.9965209960938
+2024-06-01,Manipur,Two Wheeler,1642.6470947265625
+2024-06-01,Meghalaya,Goods Vehicle,51.31353759765625
+2024-06-01,Meghalaya,Other Motor Vehicle,194.27857971191406
+2024-06-01,Meghalaya,Passenger Transport,24.068878173828125
+2024-06-01,Meghalaya,Passenger Vehicle,638.1533203125
+2024-06-01,Meghalaya,Three Wheeler,207.76914978027344
+2024-06-01,Meghalaya,Two Wheeler,4070.084228515625
+2024-06-01,Mizoram,Goods Vehicle,142.75576782226562
+2024-06-01,Mizoram,Other Motor Vehicle,312.9654846191406
+2024-06-01,Mizoram,Passenger Transport,312.9654846191406
+2024-06-01,Mizoram,Passenger Vehicle,170.00042724609375
+2024-06-01,Mizoram,Three Wheeler,190.1472625732422
+2024-06-01,Mizoram,Two Wheeler,2160.272705078125
+2024-06-01,Nagaland,Goods Vehicle,316.3463134765625
+2024-06-01,Nagaland,Other Motor Vehicle,51.31353759765625
+2024-06-01,Nagaland,Passenger Transport,340.5480041503906
+2024-06-01,Nagaland,Passenger Vehicle,638.1533203125
+2024-06-01,Nagaland,Three Wheeler,470.6049499511719
+2024-06-01,Nagaland,Two Wheeler,1340.240234375
+2024-06-01,Odisha,Goods Vehicle,3532.217529296875
+2024-06-01,Odisha,Other Motor Vehicle,24.068878173828125
+2024-06-01,Odisha,Passenger Transport,338.3631896972656
+2024-06-01,Odisha,Passenger Vehicle,9284.1201171875
+2024-06-01,Odisha,Three Wheeler,1419.67626953125
+2024-06-01,Odisha,Two Wheeler,66842.859375
+2024-06-01,Puducherry,Goods Vehicle,517.9965209960938
+2024-06-01,Puducherry,Other Motor Vehicle,194.27857971191406
+2024-06-01,Puducherry,Passenger Transport,24.068878173828125
+2024-06-01,Puducherry,Passenger Vehicle,638.1533203125
+2024-06-01,Puducherry,Three Wheeler,517.9965209960938
+2024-06-01,Puducherry,Two Wheeler,5360.19091796875
+2024-06-01,Punjab,Goods Vehicle,1205.285888671875
+2024-06-01,Punjab,Other Motor Vehicle,24.068878173828125
+2024-06-01,Punjab,Passenger Transport,455.2490234375
+2024-06-01,Punjab,Passenger Vehicle,21371.66015625
+2024-06-01,Punjab,Three Wheeler,4047.042236328125
+2024-06-01,Punjab,Two Wheeler,34909.8828125
+2024-06-01,Rajasthan,Goods Vehicle,91200.5859375
+2024-06-01,Rajasthan,Other Motor Vehicle,3071.355224609375
+2024-06-01,Rajasthan,Passenger Transport,8021.92626953125
+2024-06-01,Rajasthan,Passenger Vehicle,428702.96875
+2024-06-01,Rajasthan,Three Wheeler,120770.859375
+2024-06-01,Rajasthan,Two Wheeler,1503822.75
+2024-06-01,Sikkim,Goods Vehicle,517.9965209960938
+2024-06-01,Sikkim,Other Motor Vehicle,194.27857971191406
+2024-06-01,Sikkim,Passenger Transport,66.83563995361328
+2024-06-01,Sikkim,Passenger Vehicle,619.1192626953125
+2024-06-01,Sikkim,Two Wheeler,1298.5325927734375
+2024-06-01,Tamil Nadu,Goods Vehicle,4078.447265625
+2024-06-01,Tamil Nadu,Other Motor Vehicle,35.203453063964844
+2024-06-01,Tamil Nadu,Passenger Transport,622.043212890625
+2024-06-01,Tamil Nadu,Passenger Vehicle,26532.39453125
+2024-06-01,Tamil Nadu,Three Wheeler,3987.097900390625
+2024-06-01,Tamil Nadu,Two Wheeler,138254.4375
+2024-06-01,The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,24.068878173828125
+2024-06-01,The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,51.31353759765625
+2024-06-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,26.806222915649414
+2024-06-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,183.36463928222656
+2024-06-01,The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,517.9965209960938
+2024-06-01,The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,1298.5325927734375
+2024-06-01,Tripura,Goods Vehicle,470.6049499511719
+2024-06-01,Tripura,Other Motor Vehicle,470.6049499511719
+2024-06-01,Tripura,Passenger Transport,24.068878173828125
+2024-06-01,Tripura,Passenger Vehicle,619.1192626953125
+2024-06-01,Tripura,Three Wheeler,674.90478515625
+2024-06-01,Tripura,Two Wheeler,5236.15576171875
+2024-06-01,Uttar Pradesh,Goods Vehicle,4988.12060546875
+2024-06-01,Uttar Pradesh,Other Motor Vehicle,51.31353759765625
+2024-06-01,Uttar Pradesh,Passenger Transport,183.36463928222656
+2024-06-01,Uttar Pradesh,Passenger Vehicle,53706.41015625
+2024-06-01,Uttar Pradesh,Three Wheeler,28504.412109375
+2024-06-01,Uttar Pradesh,Two Wheeler,283878.5
+2024-06-01,Uttarakhand,Goods Vehicle,330.1110534667969
+2024-06-01,Uttarakhand,Other Motor Vehicle,24.068878173828125
+2024-06-01,Uttarakhand,Passenger Transport,470.6049499511719
+2024-06-01,Uttarakhand,Passenger Vehicle,5472.603515625
+2024-06-01,Uttarakhand,Three Wheeler,674.90478515625
+2024-06-01,Uttarakhand,Two Wheeler,21142.392578125
+2024-06-01,West Bengal,Goods Vehicle,3718.478759765625
+2024-06-01,West Bengal,Other Motor Vehicle,98.70503997802734
+2024-06-01,West Bengal,Passenger Transport,385.75469970703125
+2024-06-01,West Bengal,Passenger Vehicle,7886.83349609375
+2024-06-01,West Bengal,Three Wheeler,656.3697509765625
+2024-06-01,West Bengal,Two Wheeler,84411.171875
+2024-07-01,Andaman And Nicobar Islands,Goods Vehicle,493.172119140625
+2024-07-01,Andaman And Nicobar Islands,Other Motor Vehicle,216.8456268310547
+2024-07-01,Andaman And Nicobar Islands,Passenger Transport,1275.573974609375
+2024-07-01,Andaman And Nicobar Islands,Passenger Vehicle,493.172119140625
+2024-07-01,Andaman And Nicobar Islands,Three Wheeler,0.0
+2024-07-01,Andaman And Nicobar Islands,Two Wheeler,1302.0655517578125
+2024-07-01,Andhra Pradesh,Goods Vehicle,1730.1658935546875
+2024-07-01,Andhra Pradesh,Other Motor Vehicle,1735.91748046875
+2024-07-01,Andhra Pradesh,Passenger Transport,1735.91748046875
+2024-07-01,Andhra Pradesh,Passenger Vehicle,9271.7412109375
+2024-07-01,Andhra Pradesh,Three Wheeler,8517.3291015625
+2024-07-01,Andhra Pradesh,Two Wheeler,76262.421875
+2024-07-01,Arunachal Pradesh,Goods Vehicle,4237.548828125
+2024-07-01,Arunachal Pradesh,Other Motor Vehicle,0.0
+2024-07-01,Arunachal Pradesh,Passenger Transport,604.0997314453125
+2024-07-01,Arunachal Pradesh,Passenger Vehicle,10536.4619140625
+2024-07-01,Arunachal Pradesh,Three Wheeler,1939.7401123046875
+2024-07-01,Arunachal Pradesh,Two Wheeler,82340.3515625
+2024-07-01,Assam,Goods Vehicle,4069.609619140625
+2024-07-01,Assam,Other Motor Vehicle,493.172119140625
+2024-07-01,Assam,Passenger Transport,307.53289794921875
+2024-07-01,Assam,Passenger Vehicle,6367.498046875
+2024-07-01,Assam,Three Wheeler,5746.20751953125
+2024-07-01,Assam,Two Wheeler,38425.45703125
+2024-07-01,Bihar,Goods Vehicle,4350.10205078125
+2024-07-01,Bihar,Other Motor Vehicle,493.172119140625
+2024-07-01,Bihar,Passenger Transport,73.8805923461914
+2024-07-01,Bihar,Passenger Vehicle,7778.453125
+2024-07-01,Bihar,Three Wheeler,9412.2587890625
+2024-07-01,Bihar,Two Wheeler,97326.0703125
+2024-07-01,Chandigarh,Goods Vehicle,493.172119140625
+2024-07-01,Chandigarh,Other Motor Vehicle,216.8456268310547
+2024-07-01,Chandigarh,Passenger Transport,1215.2998046875
+2024-07-01,Chandigarh,Passenger Vehicle,1090.5633544921875
+2024-07-01,Chandigarh,Three Wheeler,493.172119140625
+2024-07-01,Chandigarh,Two Wheeler,1766.298583984375
+2024-07-01,Chhattisgarh,Goods Vehicle,3741.045654296875
+2024-07-01,Chhattisgarh,Other Motor Vehicle,493.172119140625
+2024-07-01,Chhattisgarh,Passenger Transport,73.8805923461914
+2024-07-01,Chhattisgarh,Passenger Vehicle,9306.6865234375
+2024-07-01,Chhattisgarh,Three Wheeler,660.720458984375
+2024-07-01,Chhattisgarh,Two Wheeler,40434.671875
+2024-07-01,Delhi,Goods Vehicle,585.0946044921875
+2024-07-01,Delhi,Other Motor Vehicle,216.8456268310547
+2024-07-01,Delhi,Passenger Transport,73.8805923461914
+2024-07-01,Delhi,Passenger Vehicle,20150.302734375
+2024-07-01,Delhi,Three Wheeler,4267.95703125
+2024-07-01,Delhi,Two Wheeler,33945.41015625
+2024-07-01,Goa,Goods Vehicle,73.8805923461914
+2024-07-01,Goa,Other Motor Vehicle,216.8456268310547
+2024-07-01,Goa,Passenger Transport,540.5635986328125
+2024-07-01,Goa,Passenger Vehicle,537.2852172851562
+2024-07-01,Goa,Three Wheeler,493.172119140625
+2024-07-01,Goa,Two Wheeler,4215.16455078125
+2024-07-01,Gujarat,Goods Vehicle,4883.4599609375
+2024-07-01,Gujarat,Other Motor Vehicle,94.02745819091797
+2024-07-01,Gujarat,Passenger Transport,94.02745819091797
+2024-07-01,Gujarat,Passenger Vehicle,28489.830078125
+2024-07-01,Gujarat,Three Wheeler,5746.20751953125
+2024-07-01,Gujarat,Two Wheeler,78970.546875
+2024-07-01,Haryana,Goods Vehicle,4306.12841796875
+2024-07-01,Haryana,Other Motor Vehicle,493.172119140625
+2024-07-01,Haryana,Passenger Transport,641.6864013671875
+2024-07-01,Haryana,Passenger Vehicle,27436.39453125
+2024-07-01,Haryana,Three Wheeler,4069.609619140625
+2024-07-01,Haryana,Two Wheeler,34987.140625
+2024-07-01,Himachal Pradesh,Goods Vehicle,660.720458984375
+2024-07-01,Himachal Pradesh,Other Motor Vehicle,493.172119140625
+2024-07-01,Himachal Pradesh,Passenger Transport,260.14141845703125
+2024-07-01,Himachal Pradesh,Passenger Vehicle,4920.72705078125
+2024-07-01,Himachal Pradesh,Three Wheeler,277.72772216796875
+2024-07-01,Himachal Pradesh,Two Wheeler,6378.89453125
+2024-07-01,Jammu And Kashmir,Goods Vehicle,382.4833068847656
+2024-07-01,Jammu And Kashmir,Other Motor Vehicle,0.0
+2024-07-01,Jammu And Kashmir,Passenger Transport,540.5635986328125
+2024-07-01,Jammu And Kashmir,Passenger Vehicle,4069.129638671875
+2024-07-01,Jammu And Kashmir,Three Wheeler,660.720458984375
+2024-07-01,Jammu And Kashmir,Two Wheeler,7831.45947265625
+2024-07-01,Jharkhand,Goods Vehicle,1931.570068359375
+2024-07-01,Jharkhand,Other Motor Vehicle,46.635955810546875
+2024-07-01,Jharkhand,Passenger Transport,493.172119140625
+2024-07-01,Jharkhand,Passenger Vehicle,3759.061279296875
+2024-07-01,Jharkhand,Three Wheeler,928.4710693359375
+2024-07-01,Jharkhand,Two Wheeler,35203.703125
+2024-07-01,Karnataka,Goods Vehicle,4883.91845703125
+2024-07-01,Karnataka,Other Motor Vehicle,73.8805923461914
+2024-07-01,Karnataka,Passenger Transport,537.5445556640625
+2024-07-01,Karnataka,Passenger Vehicle,28936.21484375
+2024-07-01,Karnataka,Three Wheeler,5718.5146484375
+2024-07-01,Karnataka,Two Wheeler,112646.6953125
+2024-07-01,Kerala,Goods Vehicle,1315.044189453125
+2024-07-01,Kerala,Other Motor Vehicle,311.27496337890625
+2024-07-01,Kerala,Passenger Transport,768.6936645507812
+2024-07-01,Kerala,Passenger Vehicle,20431.775390625
+2024-07-01,Kerala,Three Wheeler,2519.723876953125
+2024-07-01,Kerala,Two Wheeler,43174.6328125
+2024-07-01,Ladakh,Goods Vehicle,360.9302062988281
+2024-07-01,Ladakh,Other Motor Vehicle,216.8456268310547
+2024-07-01,Ladakh,Passenger Transport,264.2371520996094
+2024-07-01,Ladakh,Passenger Vehicle,493.172119140625
+2024-07-01,Ladakh,Three Wheeler,89.40267181396484
+2024-07-01,Ladakh,Two Wheeler,543.8990478515625
+2024-07-01,Madhya Pradesh,Goods Vehicle,3741.045654296875
+2024-07-01,Madhya Pradesh,Other Motor Vehicle,493.172119140625
+2024-07-01,Madhya Pradesh,Passenger Transport,230.33621215820312
+2024-07-01,Madhya Pradesh,Passenger Vehicle,23716.806640625
+2024-07-01,Madhya Pradesh,Three Wheeler,4347.30712890625
+2024-07-01,Madhya Pradesh,Two Wheeler,88881.984375
+2024-07-01,Maharashtra,Goods Vehicle,7517.54345703125
+2024-07-01,Maharashtra,Other Motor Vehicle,477.8161315917969
+2024-07-01,Maharashtra,Passenger Transport,492.9814147949219
+2024-07-01,Maharashtra,Passenger Vehicle,47752.62890625
+2024-07-01,Maharashtra,Three Wheeler,4692.56396484375
+2024-07-01,Maharashtra,Two Wheeler,141355.09375
+2024-07-01,Manipur,Goods Vehicle,493.172119140625
+2024-07-01,Manipur,Other Motor Vehicle,216.8456268310547
+2024-07-01,Manipur,Passenger Transport,216.8456268310547
+2024-07-01,Manipur,Passenger Vehicle,307.53289794921875
+2024-07-01,Manipur,Three Wheeler,540.5635986328125
+2024-07-01,Manipur,Two Wheeler,1665.214111328125
+2024-07-01,Meghalaya,Goods Vehicle,73.8805923461914
+2024-07-01,Meghalaya,Other Motor Vehicle,216.8456268310547
+2024-07-01,Meghalaya,Passenger Transport,46.635955810546875
+2024-07-01,Meghalaya,Passenger Vehicle,660.720458984375
+2024-07-01,Meghalaya,Three Wheeler,230.33621215820312
+2024-07-01,Meghalaya,Two Wheeler,4092.65087890625
+2024-07-01,Mizoram,Goods Vehicle,165.32284545898438
+2024-07-01,Mizoram,Other Motor Vehicle,335.5325622558594
+2024-07-01,Mizoram,Passenger Transport,335.5325622558594
+2024-07-01,Mizoram,Passenger Vehicle,192.56748962402344
+2024-07-01,Mizoram,Three Wheeler,212.71434020996094
+2024-07-01,Mizoram,Two Wheeler,2182.839599609375
+2024-07-01,Nagaland,Goods Vehicle,338.91339111328125
+2024-07-01,Nagaland,Other Motor Vehicle,73.8805923461914
+2024-07-01,Nagaland,Passenger Transport,363.1150207519531
+2024-07-01,Nagaland,Passenger Vehicle,660.720458984375
+2024-07-01,Nagaland,Three Wheeler,493.172119140625
+2024-07-01,Nagaland,Two Wheeler,1362.8072509765625
+2024-07-01,Odisha,Goods Vehicle,3554.784423828125
+2024-07-01,Odisha,Other Motor Vehicle,46.635955810546875
+2024-07-01,Odisha,Passenger Transport,360.9302062988281
+2024-07-01,Odisha,Passenger Vehicle,9306.6865234375
+2024-07-01,Odisha,Three Wheeler,1442.2432861328125
+2024-07-01,Odisha,Two Wheeler,67960.609375
+2024-07-01,Puducherry,Goods Vehicle,540.5635986328125
+2024-07-01,Puducherry,Other Motor Vehicle,216.8456268310547
+2024-07-01,Puducherry,Passenger Transport,46.635955810546875
+2024-07-01,Puducherry,Passenger Vehicle,660.720458984375
+2024-07-01,Puducherry,Three Wheeler,540.5635986328125
+2024-07-01,Puducherry,Two Wheeler,5382.75830078125
+2024-07-01,Punjab,Goods Vehicle,1227.8529052734375
+2024-07-01,Punjab,Other Motor Vehicle,46.635955810546875
+2024-07-01,Punjab,Passenger Transport,477.8161315917969
+2024-07-01,Punjab,Passenger Vehicle,21394.228515625
+2024-07-01,Punjab,Three Wheeler,4069.609619140625
+2024-07-01,Punjab,Two Wheeler,34894.94921875
+2024-07-01,Rajasthan,Goods Vehicle,92712.6953125
+2024-07-01,Rajasthan,Other Motor Vehicle,3093.922119140625
+2024-07-01,Rajasthan,Passenger Transport,8044.49365234375
+2024-07-01,Rajasthan,Passenger Vehicle,417368.84375
+2024-07-01,Rajasthan,Three Wheeler,123677.40625
+2024-07-01,Rajasthan,Two Wheeler,1478598.125
+2024-07-01,Sikkim,Goods Vehicle,540.5635986328125
+2024-07-01,Sikkim,Other Motor Vehicle,216.8456268310547
+2024-07-01,Sikkim,Passenger Transport,89.40267181396484
+2024-07-01,Sikkim,Passenger Vehicle,641.6864013671875
+2024-07-01,Sikkim,Two Wheeler,1321.099609375
+2024-07-01,Tamil Nadu,Goods Vehicle,4101.0146484375
+2024-07-01,Tamil Nadu,Other Motor Vehicle,57.77050018310547
+2024-07-01,Tamil Nadu,Passenger Transport,644.6103515625
+2024-07-01,Tamil Nadu,Passenger Vehicle,26517.462890625
+2024-07-01,Tamil Nadu,Three Wheeler,4009.664794921875
+2024-07-01,Tamil Nadu,Two Wheeler,138633.859375
+2024-07-01,The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,46.635955810546875
+2024-07-01,The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,73.8805923461914
+2024-07-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,49.37330627441406
+2024-07-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,205.93165588378906
+2024-07-01,The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,540.5635986328125
+2024-07-01,The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,1321.099609375
+2024-07-01,Tripura,Goods Vehicle,493.172119140625
+2024-07-01,Tripura,Other Motor Vehicle,493.172119140625
+2024-07-01,Tripura,Passenger Transport,46.635955810546875
+2024-07-01,Tripura,Passenger Vehicle,641.6864013671875
+2024-07-01,Tripura,Three Wheeler,697.4718017578125
+2024-07-01,Tripura,Two Wheeler,5258.72314453125
+2024-07-01,Uttar Pradesh,Goods Vehicle,5010.68798828125
+2024-07-01,Uttar Pradesh,Other Motor Vehicle,73.8805923461914
+2024-07-01,Uttar Pradesh,Passenger Transport,205.93165588378906
+2024-07-01,Uttar Pradesh,Passenger Vehicle,54824.171875
+2024-07-01,Uttar Pradesh,Three Wheeler,28489.48046875
+2024-07-01,Uttar Pradesh,Two Wheeler,282265.59375
+2024-07-01,Uttarakhand,Goods Vehicle,352.6780700683594
+2024-07-01,Uttarakhand,Other Motor Vehicle,46.635955810546875
+2024-07-01,Uttarakhand,Passenger Transport,493.172119140625
+2024-07-01,Uttarakhand,Passenger Vehicle,5495.1708984375
+2024-07-01,Uttarakhand,Three Wheeler,697.4718017578125
+2024-07-01,Uttarakhand,Two Wheeler,21419.849609375
+2024-07-01,West Bengal,Goods Vehicle,3741.045654296875
+2024-07-01,West Bengal,Other Motor Vehicle,121.27208709716797
+2024-07-01,West Bengal,Passenger Transport,408.32171630859375
+2024-07-01,West Bengal,Passenger Vehicle,8164.2900390625
+2024-07-01,West Bengal,Three Wheeler,678.9368896484375
+2024-07-01,West Bengal,Two Wheeler,85923.28125
+2024-08-01,Andaman And Nicobar Islands,Goods Vehicle,493.172119140625
+2024-08-01,Andaman And Nicobar Islands,Other Motor Vehicle,216.8456268310547
+2024-08-01,Andaman And Nicobar Islands,Passenger Transport,1275.573974609375
+2024-08-01,Andaman And Nicobar Islands,Passenger Vehicle,493.172119140625
+2024-08-01,Andaman And Nicobar Islands,Three Wheeler,0.0
+2024-08-01,Andaman And Nicobar Islands,Two Wheeler,1302.0655517578125
+2024-08-01,Andhra Pradesh,Goods Vehicle,0.0
+2024-08-01,Andhra Pradesh,Other Motor Vehicle,1782.146240234375
+2024-08-01,Andhra Pradesh,Passenger Transport,1782.146240234375
+2024-08-01,Andhra Pradesh,Passenger Vehicle,10148.13671875
+2024-08-01,Andhra Pradesh,Three Wheeler,6581.10791015625
+2024-08-01,Andhra Pradesh,Two Wheeler,77138.8203125
+2024-08-01,Arunachal Pradesh,Goods Vehicle,4237.548828125
+2024-08-01,Arunachal Pradesh,Other Motor Vehicle,0.0
+2024-08-01,Arunachal Pradesh,Passenger Transport,604.0997314453125
+2024-08-01,Arunachal Pradesh,Passenger Vehicle,7717.3984375
+2024-08-01,Arunachal Pradesh,Three Wheeler,1939.7401123046875
+2024-08-01,Arunachal Pradesh,Two Wheeler,84002.1640625
+2024-08-01,Assam,Goods Vehicle,4069.609619140625
+2024-08-01,Assam,Other Motor Vehicle,493.172119140625
+2024-08-01,Assam,Passenger Transport,307.53289794921875
+2024-08-01,Assam,Passenger Vehicle,6367.498046875
+2024-08-01,Assam,Three Wheeler,5746.20751953125
+2024-08-01,Assam,Two Wheeler,38425.45703125
+2024-08-01,Bihar,Goods Vehicle,4350.10205078125
+2024-08-01,Bihar,Other Motor Vehicle,493.172119140625
+2024-08-01,Bihar,Passenger Transport,73.8805923461914
+2024-08-01,Bihar,Passenger Vehicle,7778.453125
+2024-08-01,Bihar,Three Wheeler,9412.2587890625
+2024-08-01,Bihar,Two Wheeler,96163.1875
+2024-08-01,Chandigarh,Goods Vehicle,493.172119140625
+2024-08-01,Chandigarh,Other Motor Vehicle,216.8456268310547
+2024-08-01,Chandigarh,Passenger Transport,1215.2998046875
+2024-08-01,Chandigarh,Passenger Vehicle,1090.5633544921875
+2024-08-01,Chandigarh,Three Wheeler,493.172119140625
+2024-08-01,Chandigarh,Two Wheeler,1766.298583984375
+2024-08-01,Chhattisgarh,Goods Vehicle,3741.045654296875
+2024-08-01,Chhattisgarh,Other Motor Vehicle,493.172119140625
+2024-08-01,Chhattisgarh,Passenger Transport,73.8805923461914
+2024-08-01,Chhattisgarh,Passenger Vehicle,9306.6865234375
+2024-08-01,Chhattisgarh,Three Wheeler,660.720458984375
+2024-08-01,Chhattisgarh,Two Wheeler,40434.671875
+2024-08-01,Delhi,Goods Vehicle,585.0946044921875
+2024-08-01,Delhi,Other Motor Vehicle,216.8456268310547
+2024-08-01,Delhi,Passenger Transport,73.8805923461914
+2024-08-01,Delhi,Passenger Vehicle,20150.302734375
+2024-08-01,Delhi,Three Wheeler,4267.95703125
+2024-08-01,Delhi,Two Wheeler,33945.41015625
+2024-08-01,Goa,Goods Vehicle,73.8805923461914
+2024-08-01,Goa,Other Motor Vehicle,216.8456268310547
+2024-08-01,Goa,Passenger Transport,540.5635986328125
+2024-08-01,Goa,Passenger Vehicle,537.2852172851562
+2024-08-01,Goa,Three Wheeler,493.172119140625
+2024-08-01,Goa,Two Wheeler,4215.16455078125
+2024-08-01,Gujarat,Goods Vehicle,4883.4599609375
+2024-08-01,Gujarat,Other Motor Vehicle,94.02745819091797
+2024-08-01,Gujarat,Passenger Transport,94.02745819091797
+2024-08-01,Gujarat,Passenger Vehicle,28489.830078125
+2024-08-01,Gujarat,Three Wheeler,5746.20751953125
+2024-08-01,Gujarat,Two Wheeler,78337.7734375
+2024-08-01,Haryana,Goods Vehicle,4306.12841796875
+2024-08-01,Haryana,Other Motor Vehicle,493.172119140625
+2024-08-01,Haryana,Passenger Transport,641.6864013671875
+2024-08-01,Haryana,Passenger Vehicle,27436.39453125
+2024-08-01,Haryana,Three Wheeler,4069.609619140625
+2024-08-01,Haryana,Two Wheeler,34987.140625
+2024-08-01,Himachal Pradesh,Goods Vehicle,660.720458984375
+2024-08-01,Himachal Pradesh,Other Motor Vehicle,493.172119140625
+2024-08-01,Himachal Pradesh,Passenger Transport,260.14141845703125
+2024-08-01,Himachal Pradesh,Passenger Vehicle,4920.72705078125
+2024-08-01,Himachal Pradesh,Three Wheeler,277.72772216796875
+2024-08-01,Himachal Pradesh,Two Wheeler,6378.89453125
+2024-08-01,Jammu And Kashmir,Goods Vehicle,382.4833068847656
+2024-08-01,Jammu And Kashmir,Other Motor Vehicle,0.0
+2024-08-01,Jammu And Kashmir,Passenger Transport,540.5635986328125
+2024-08-01,Jammu And Kashmir,Passenger Vehicle,4069.129638671875
+2024-08-01,Jammu And Kashmir,Three Wheeler,660.720458984375
+2024-08-01,Jammu And Kashmir,Two Wheeler,7831.45947265625
+2024-08-01,Jharkhand,Goods Vehicle,1931.570068359375
+2024-08-01,Jharkhand,Other Motor Vehicle,46.635955810546875
+2024-08-01,Jharkhand,Passenger Transport,493.172119140625
+2024-08-01,Jharkhand,Passenger Vehicle,3759.061279296875
+2024-08-01,Jharkhand,Three Wheeler,928.4710693359375
+2024-08-01,Jharkhand,Two Wheeler,35203.703125
+2024-08-01,Karnataka,Goods Vehicle,4883.91845703125
+2024-08-01,Karnataka,Other Motor Vehicle,73.8805923461914
+2024-08-01,Karnataka,Passenger Transport,537.5445556640625
+2024-08-01,Karnataka,Passenger Vehicle,28936.21484375
+2024-08-01,Karnataka,Three Wheeler,5718.5146484375
+2024-08-01,Karnataka,Two Wheeler,111483.8125
+2024-08-01,Kerala,Goods Vehicle,1315.044189453125
+2024-08-01,Kerala,Other Motor Vehicle,311.27496337890625
+2024-08-01,Kerala,Passenger Transport,768.6936645507812
+2024-08-01,Kerala,Passenger Vehicle,20431.775390625
+2024-08-01,Kerala,Three Wheeler,2519.723876953125
+2024-08-01,Kerala,Two Wheeler,43174.6328125
+2024-08-01,Ladakh,Goods Vehicle,360.9302062988281
+2024-08-01,Ladakh,Other Motor Vehicle,216.8456268310547
+2024-08-01,Ladakh,Passenger Transport,264.2371520996094
+2024-08-01,Ladakh,Passenger Vehicle,493.172119140625
+2024-08-01,Ladakh,Three Wheeler,89.40267181396484
+2024-08-01,Ladakh,Two Wheeler,543.8990478515625
+2024-08-01,Madhya Pradesh,Goods Vehicle,3741.045654296875
+2024-08-01,Madhya Pradesh,Other Motor Vehicle,493.172119140625
+2024-08-01,Madhya Pradesh,Passenger Transport,230.33621215820312
+2024-08-01,Madhya Pradesh,Passenger Vehicle,23716.806640625
+2024-08-01,Madhya Pradesh,Three Wheeler,4347.30712890625
+2024-08-01,Madhya Pradesh,Two Wheeler,88249.2109375
+2024-08-01,Maharashtra,Goods Vehicle,7517.54345703125
+2024-08-01,Maharashtra,Other Motor Vehicle,477.8161315917969
+2024-08-01,Maharashtra,Passenger Transport,492.9814147949219
+2024-08-01,Maharashtra,Passenger Vehicle,47752.62890625
+2024-08-01,Maharashtra,Three Wheeler,4692.56396484375
+2024-08-01,Maharashtra,Two Wheeler,141003.703125
+2024-08-01,Manipur,Goods Vehicle,493.172119140625
+2024-08-01,Manipur,Other Motor Vehicle,216.8456268310547
+2024-08-01,Manipur,Passenger Transport,216.8456268310547
+2024-08-01,Manipur,Passenger Vehicle,307.53289794921875
+2024-08-01,Manipur,Three Wheeler,540.5635986328125
+2024-08-01,Manipur,Two Wheeler,1665.214111328125
+2024-08-01,Meghalaya,Goods Vehicle,73.8805923461914
+2024-08-01,Meghalaya,Other Motor Vehicle,216.8456268310547
+2024-08-01,Meghalaya,Passenger Transport,46.635955810546875
+2024-08-01,Meghalaya,Passenger Vehicle,660.720458984375
+2024-08-01,Meghalaya,Three Wheeler,230.33621215820312
+2024-08-01,Meghalaya,Two Wheeler,4092.65087890625
+2024-08-01,Mizoram,Goods Vehicle,165.32284545898438
+2024-08-01,Mizoram,Other Motor Vehicle,335.5325622558594
+2024-08-01,Mizoram,Passenger Transport,335.5325622558594
+2024-08-01,Mizoram,Passenger Vehicle,192.56748962402344
+2024-08-01,Mizoram,Three Wheeler,212.71434020996094
+2024-08-01,Mizoram,Two Wheeler,2182.839599609375
+2024-08-01,Nagaland,Goods Vehicle,338.91339111328125
+2024-08-01,Nagaland,Other Motor Vehicle,73.8805923461914
+2024-08-01,Nagaland,Passenger Transport,363.1150207519531
+2024-08-01,Nagaland,Passenger Vehicle,660.720458984375
+2024-08-01,Nagaland,Three Wheeler,493.172119140625
+2024-08-01,Nagaland,Two Wheeler,1362.8072509765625
+2024-08-01,Odisha,Goods Vehicle,3554.784423828125
+2024-08-01,Odisha,Other Motor Vehicle,46.635955810546875
+2024-08-01,Odisha,Passenger Transport,360.9302062988281
+2024-08-01,Odisha,Passenger Vehicle,9306.6865234375
+2024-08-01,Odisha,Three Wheeler,1442.2432861328125
+2024-08-01,Odisha,Two Wheeler,67960.609375
+2024-08-01,Puducherry,Goods Vehicle,540.5635986328125
+2024-08-01,Puducherry,Other Motor Vehicle,216.8456268310547
+2024-08-01,Puducherry,Passenger Transport,46.635955810546875
+2024-08-01,Puducherry,Passenger Vehicle,660.720458984375
+2024-08-01,Puducherry,Three Wheeler,540.5635986328125
+2024-08-01,Puducherry,Two Wheeler,5382.75830078125
+2024-08-01,Punjab,Goods Vehicle,1227.8529052734375
+2024-08-01,Punjab,Other Motor Vehicle,46.635955810546875
+2024-08-01,Punjab,Passenger Transport,477.8161315917969
+2024-08-01,Punjab,Passenger Vehicle,21394.228515625
+2024-08-01,Punjab,Three Wheeler,4069.609619140625
+2024-08-01,Punjab,Two Wheeler,34894.94921875
+2024-08-01,Rajasthan,Goods Vehicle,92079.921875
+2024-08-01,Rajasthan,Other Motor Vehicle,3093.922119140625
+2024-08-01,Rajasthan,Passenger Transport,8044.49365234375
+2024-08-01,Rajasthan,Passenger Vehicle,404191.6875
+2024-08-01,Rajasthan,Three Wheeler,122514.5234375
+2024-08-01,Rajasthan,Two Wheeler,1433023.125
+2024-08-01,Sikkim,Goods Vehicle,540.5635986328125
+2024-08-01,Sikkim,Other Motor Vehicle,216.8456268310547
+2024-08-01,Sikkim,Passenger Transport,89.40267181396484
+2024-08-01,Sikkim,Passenger Vehicle,641.6864013671875
+2024-08-01,Sikkim,Two Wheeler,1321.099609375
+2024-08-01,Tamil Nadu,Goods Vehicle,4101.0146484375
+2024-08-01,Tamil Nadu,Other Motor Vehicle,57.77050018310547
+2024-08-01,Tamil Nadu,Passenger Transport,644.6103515625
+2024-08-01,Tamil Nadu,Passenger Vehicle,26517.462890625
+2024-08-01,Tamil Nadu,Three Wheeler,4009.664794921875
+2024-08-01,Tamil Nadu,Two Wheeler,139024.375
+2024-08-01,The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,46.635955810546875
+2024-08-01,The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,73.8805923461914
+2024-08-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,49.37330627441406
+2024-08-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,205.93165588378906
+2024-08-01,The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,540.5635986328125
+2024-08-01,The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,1321.099609375
+2024-08-01,Tripura,Goods Vehicle,493.172119140625
+2024-08-01,Tripura,Other Motor Vehicle,493.172119140625
+2024-08-01,Tripura,Passenger Transport,46.635955810546875
+2024-08-01,Tripura,Passenger Vehicle,641.6864013671875
+2024-08-01,Tripura,Three Wheeler,697.4718017578125
+2024-08-01,Tripura,Two Wheeler,5258.72314453125
+2024-08-01,Uttar Pradesh,Goods Vehicle,5010.68798828125
+2024-08-01,Uttar Pradesh,Other Motor Vehicle,73.8805923461914
+2024-08-01,Uttar Pradesh,Passenger Transport,205.93165588378906
+2024-08-01,Uttar Pradesh,Passenger Vehicle,54824.171875
+2024-08-01,Uttar Pradesh,Three Wheeler,28489.48046875
+2024-08-01,Uttar Pradesh,Two Wheeler,281102.71875
+2024-08-01,Uttarakhand,Goods Vehicle,352.6780700683594
+2024-08-01,Uttarakhand,Other Motor Vehicle,46.635955810546875
+2024-08-01,Uttarakhand,Passenger Transport,493.172119140625
+2024-08-01,Uttarakhand,Passenger Vehicle,5495.1708984375
+2024-08-01,Uttarakhand,Three Wheeler,697.4718017578125
+2024-08-01,Uttarakhand,Two Wheeler,21419.849609375
+2024-08-01,West Bengal,Goods Vehicle,3741.045654296875
+2024-08-01,West Bengal,Other Motor Vehicle,121.27208709716797
+2024-08-01,West Bengal,Passenger Transport,408.32171630859375
+2024-08-01,West Bengal,Passenger Vehicle,8164.2900390625
+2024-08-01,West Bengal,Three Wheeler,678.9368896484375
+2024-08-01,West Bengal,Two Wheeler,85923.28125
+2024-09-01,Andaman And Nicobar Islands,Goods Vehicle,474.4173278808594
+2024-09-01,Andaman And Nicobar Islands,Other Motor Vehicle,198.0908660888672
+2024-09-01,Andaman And Nicobar Islands,Passenger Transport,1256.8192138671875
+2024-09-01,Andaman And Nicobar Islands,Passenger Vehicle,474.4173278808594
+2024-09-01,Andaman And Nicobar Islands,Three Wheeler,0.0
+2024-09-01,Andaman And Nicobar Islands,Two Wheeler,1603.1925048828125
+2024-09-01,Andhra Pradesh,Goods Vehicle,0.0
+2024-09-01,Andhra Pradesh,Other Motor Vehicle,1763.3914794921875
+2024-09-01,Andhra Pradesh,Passenger Transport,1763.3914794921875
+2024-09-01,Andhra Pradesh,Passenger Vehicle,9504.1044921875
+2024-09-01,Andhra Pradesh,Three Wheeler,6573.21435546875
+2024-09-01,Andhra Pradesh,Two Wheeler,80002.65625
+2024-09-01,Arunachal Pradesh,Goods Vehicle,5257.61865234375
+2024-09-01,Arunachal Pradesh,Other Motor Vehicle,0.0
+2024-09-01,Arunachal Pradesh,Passenger Transport,585.3448486328125
+2024-09-01,Arunachal Pradesh,Passenger Vehicle,10123.2470703125
+2024-09-01,Arunachal Pradesh,Three Wheeler,3788.142578125
+2024-09-01,Arunachal Pradesh,Two Wheeler,88272.109375
+2024-09-01,Assam,Goods Vehicle,4061.715576171875
+2024-09-01,Assam,Other Motor Vehicle,474.4173278808594
+2024-09-01,Assam,Passenger Transport,288.7781677246094
+2024-09-01,Assam,Passenger Vehicle,6431.6875
+2024-09-01,Assam,Three Wheeler,5810.39697265625
+2024-09-01,Assam,Two Wheeler,42013.69921875
+2024-09-01,Bihar,Goods Vehicle,4342.20849609375
+2024-09-01,Bihar,Other Motor Vehicle,474.4173278808594
+2024-09-01,Bihar,Passenger Transport,55.125858306884766
+2024-09-01,Bihar,Passenger Vehicle,7842.642578125
+2024-09-01,Bihar,Three Wheeler,9476.4462890625
+2024-09-01,Bihar,Two Wheeler,119664.1328125
+2024-09-01,Chandigarh,Goods Vehicle,474.4173278808594
+2024-09-01,Chandigarh,Other Motor Vehicle,198.0908660888672
+2024-09-01,Chandigarh,Passenger Transport,1196.5450439453125
+2024-09-01,Chandigarh,Passenger Vehicle,1082.66943359375
+2024-09-01,Chandigarh,Three Wheeler,474.4173278808594
+2024-09-01,Chandigarh,Two Wheeler,2078.2861328125
+2024-09-01,Chhattisgarh,Goods Vehicle,3733.151611328125
+2024-09-01,Chhattisgarh,Other Motor Vehicle,474.4173278808594
+2024-09-01,Chhattisgarh,Passenger Transport,55.125858306884766
+2024-09-01,Chhattisgarh,Passenger Vehicle,9370.8740234375
+2024-09-01,Chhattisgarh,Three Wheeler,652.8265380859375
+2024-09-01,Chhattisgarh,Two Wheeler,44022.9140625
+2024-09-01,Delhi,Goods Vehicle,577.2008056640625
+2024-09-01,Delhi,Other Motor Vehicle,198.0908660888672
+2024-09-01,Delhi,Passenger Transport,55.125858306884766
+2024-09-01,Delhi,Passenger Vehicle,21068.66015625
+2024-09-01,Delhi,Three Wheeler,4260.0634765625
+2024-09-01,Delhi,Two Wheeler,37533.65234375
+2024-09-01,Goa,Goods Vehicle,55.125858306884766
+2024-09-01,Goa,Other Motor Vehicle,198.0908660888672
+2024-09-01,Goa,Passenger Transport,521.808837890625
+2024-09-01,Goa,Passenger Vehicle,529.3912963867188
+2024-09-01,Goa,Three Wheeler,474.4173278808594
+2024-09-01,Goa,Two Wheeler,4527.15283203125
+2024-09-01,Gujarat,Goods Vehicle,4947.6494140625
+2024-09-01,Gujarat,Other Motor Vehicle,75.272705078125
+2024-09-01,Gujarat,Passenger Transport,75.272705078125
+2024-09-01,Gujarat,Passenger Vehicle,34991.38671875
+2024-09-01,Gujarat,Three Wheeler,5810.39697265625
+2024-09-01,Gujarat,Two Wheeler,89740.296875
+2024-09-01,Haryana,Goods Vehicle,4370.31787109375
+2024-09-01,Haryana,Other Motor Vehicle,474.4173278808594
+2024-09-01,Haryana,Passenger Transport,622.931640625
+2024-09-01,Haryana,Passenger Vehicle,33937.94921875
+2024-09-01,Haryana,Three Wheeler,4061.715576171875
+2024-09-01,Haryana,Two Wheeler,41808.58203125
+2024-09-01,Himachal Pradesh,Goods Vehicle,652.8265380859375
+2024-09-01,Himachal Pradesh,Other Motor Vehicle,474.4173278808594
+2024-09-01,Himachal Pradesh,Passenger Transport,241.38671875
+2024-09-01,Himachal Pradesh,Passenger Vehicle,4984.91650390625
+2024-09-01,Himachal Pradesh,Three Wheeler,258.9729919433594
+2024-09-01,Himachal Pradesh,Two Wheeler,6762.9658203125
+2024-09-01,Jammu And Kashmir,Goods Vehicle,374.5894775390625
+2024-09-01,Jammu And Kashmir,Other Motor Vehicle,0.0
+2024-09-01,Jammu And Kashmir,Passenger Transport,521.808837890625
+2024-09-01,Jammu And Kashmir,Passenger Vehicle,4133.318359375
+2024-09-01,Jammu And Kashmir,Three Wheeler,652.8265380859375
+2024-09-01,Jammu And Kashmir,Two Wheeler,8215.5302734375
+2024-09-01,Jharkhand,Goods Vehicle,1923.6761474609375
+2024-09-01,Jharkhand,Other Motor Vehicle,27.88120460510254
+2024-09-01,Jharkhand,Passenger Transport,474.4173278808594
+2024-09-01,Jharkhand,Passenger Vehicle,3823.25048828125
+2024-09-01,Jharkhand,Three Wheeler,920.5772705078125
+2024-09-01,Jharkhand,Two Wheeler,42689.80859375
+2024-09-01,Karnataka,Goods Vehicle,4948.10791015625
+2024-09-01,Karnataka,Other Motor Vehicle,55.125858306884766
+2024-09-01,Karnataka,Passenger Transport,518.789794921875
+2024-09-01,Karnataka,Passenger Vehicle,35437.76953125
+2024-09-01,Karnataka,Three Wheeler,5782.7041015625
+2024-09-01,Karnataka,Two Wheeler,126740.5234375
+2024-09-01,Kerala,Goods Vehicle,1307.1502685546875
+2024-09-01,Kerala,Other Motor Vehicle,292.5202331542969
+2024-09-01,Kerala,Passenger Transport,749.9389038085938
+2024-09-01,Kerala,Passenger Vehicle,20495.96484375
+2024-09-01,Kerala,Three Wheeler,2511.829833984375
+2024-09-01,Kerala,Two Wheeler,48639.3359375
+2024-09-01,Ladakh,Goods Vehicle,342.17547607421875
+2024-09-01,Ladakh,Other Motor Vehicle,198.0908660888672
+2024-09-01,Ladakh,Passenger Transport,245.48239135742188
+2024-09-01,Ladakh,Passenger Vehicle,474.4173278808594
+2024-09-01,Ladakh,Three Wheeler,70.64793395996094
+2024-09-01,Ladakh,Two Wheeler,525.144287109375
+2024-09-01,Madhya Pradesh,Goods Vehicle,3733.151611328125
+2024-09-01,Madhya Pradesh,Other Motor Vehicle,474.4173278808594
+2024-09-01,Madhya Pradesh,Passenger Transport,211.58151245117188
+2024-09-01,Madhya Pradesh,Passenger Vehicle,27947.732421875
+2024-09-01,Madhya Pradesh,Three Wheeler,4339.41357421875
+2024-09-01,Madhya Pradesh,Two Wheeler,107151.015625
+2024-09-01,Maharashtra,Goods Vehicle,7581.73291015625
+2024-09-01,Maharashtra,Other Motor Vehicle,459.06134033203125
+2024-09-01,Maharashtra,Passenger Transport,474.2266845703125
+2024-09-01,Maharashtra,Passenger Vehicle,54409.984375
+2024-09-01,Maharashtra,Three Wheeler,4756.75341796875
+2024-09-01,Maharashtra,Two Wheeler,159047.078125
+2024-09-01,Manipur,Goods Vehicle,474.4173278808594
+2024-09-01,Manipur,Other Motor Vehicle,198.0908660888672
+2024-09-01,Manipur,Passenger Transport,198.0908660888672
+2024-09-01,Manipur,Passenger Vehicle,288.7781677246094
+2024-09-01,Manipur,Three Wheeler,521.808837890625
+2024-09-01,Manipur,Two Wheeler,1977.2017822265625
+2024-09-01,Meghalaya,Goods Vehicle,55.125858306884766
+2024-09-01,Meghalaya,Other Motor Vehicle,198.0908660888672
+2024-09-01,Meghalaya,Passenger Transport,27.88120460510254
+2024-09-01,Meghalaya,Passenger Vehicle,652.8265380859375
+2024-09-01,Meghalaya,Three Wheeler,211.58151245117188
+2024-09-01,Meghalaya,Two Wheeler,4404.64013671875
+2024-09-01,Mizoram,Goods Vehicle,146.56809997558594
+2024-09-01,Mizoram,Other Motor Vehicle,316.77777099609375
+2024-09-01,Mizoram,Passenger Transport,316.77777099609375
+2024-09-01,Mizoram,Passenger Vehicle,173.812744140625
+2024-09-01,Mizoram,Three Wheeler,193.9595947265625
+2024-09-01,Mizoram,Two Wheeler,2174.945556640625
+2024-09-01,Nagaland,Goods Vehicle,331.0195617675781
+2024-09-01,Nagaland,Other Motor Vehicle,55.125858306884766
+2024-09-01,Nagaland,Passenger Transport,344.36029052734375
+2024-09-01,Nagaland,Passenger Vehicle,652.8265380859375
+2024-09-01,Nagaland,Three Wheeler,474.4173278808594
+2024-09-01,Nagaland,Two Wheeler,1354.913330078125
+2024-09-01,Odisha,Goods Vehicle,3546.890380859375
+2024-09-01,Odisha,Other Motor Vehicle,27.88120460510254
+2024-09-01,Odisha,Passenger Transport,342.17547607421875
+2024-09-01,Odisha,Passenger Vehicle,9370.8740234375
+2024-09-01,Odisha,Three Wheeler,1434.349365234375
+2024-09-01,Odisha,Two Wheeler,71704.6484375
+2024-09-01,Puducherry,Goods Vehicle,521.808837890625
+2024-09-01,Puducherry,Other Motor Vehicle,198.0908660888672
+2024-09-01,Puducherry,Passenger Transport,27.88120460510254
+2024-09-01,Puducherry,Passenger Vehicle,652.8265380859375
+2024-09-01,Puducherry,Three Wheeler,521.808837890625
+2024-09-01,Puducherry,Two Wheeler,5766.82958984375
+2024-09-01,Punjab,Goods Vehicle,1219.958984375
+2024-09-01,Punjab,Other Motor Vehicle,27.88120460510254
+2024-09-01,Punjab,Passenger Transport,459.06134033203125
+2024-09-01,Punjab,Passenger Vehicle,22312.5859375
+2024-09-01,Punjab,Three Wheeler,4061.715576171875
+2024-09-01,Punjab,Two Wheeler,38483.19140625
+2024-09-01,Rajasthan,Goods Vehicle,107413.5859375
+2024-09-01,Rajasthan,Other Motor Vehicle,2981.611572265625
+2024-09-01,Rajasthan,Passenger Transport,8073.22998046875
+2024-09-01,Rajasthan,Passenger Vehicle,431270.90625
+2024-09-01,Rajasthan,Three Wheeler,138465.484375
+2024-09-01,Rajasthan,Two Wheeler,1751170.25
+2024-09-01,Sikkim,Goods Vehicle,521.808837890625
+2024-09-01,Sikkim,Other Motor Vehicle,198.0908660888672
+2024-09-01,Sikkim,Passenger Transport,70.64793395996094
+2024-09-01,Sikkim,Passenger Vehicle,622.931640625
+2024-09-01,Sikkim,Two Wheeler,1633.08740234375
+2024-09-01,Tamil Nadu,Goods Vehicle,4165.20361328125
+2024-09-01,Tamil Nadu,Other Motor Vehicle,39.01576232910156
+2024-09-01,Tamil Nadu,Passenger Transport,636.7164306640625
+2024-09-01,Tamil Nadu,Passenger Vehicle,30748.388671875
+2024-09-01,Tamil Nadu,Three Wheeler,4044.616455078125
+2024-09-01,Tamil Nadu,Two Wheeler,155637.8125
+2024-09-01,The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,27.88120460510254
+2024-09-01,The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,55.125858306884766
+2024-09-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,30.61853790283203
+2024-09-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,187.17694091796875
+2024-09-01,The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,521.808837890625
+2024-09-01,The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,1633.08740234375
+2024-09-01,Tripura,Goods Vehicle,474.4173278808594
+2024-09-01,Tripura,Other Motor Vehicle,474.4173278808594
+2024-09-01,Tripura,Passenger Transport,27.88120460510254
+2024-09-01,Tripura,Passenger Vehicle,622.931640625
+2024-09-01,Tripura,Three Wheeler,689.5780029296875
+2024-09-01,Tripura,Two Wheeler,5570.71142578125
+2024-09-01,Uttar Pradesh,Goods Vehicle,5074.87744140625
+2024-09-01,Uttar Pradesh,Other Motor Vehicle,55.125858306884766
+2024-09-01,Uttar Pradesh,Passenger Transport,187.17694091796875
+2024-09-01,Uttar Pradesh,Passenger Vehicle,61481.52734375
+2024-09-01,Uttar Pradesh,Three Wheeler,29407.837890625
+2024-09-01,Uttar Pradesh,Two Wheeler,300035.9375
+2024-09-01,Uttarakhand,Goods Vehicle,344.78424072265625
+2024-09-01,Uttarakhand,Other Motor Vehicle,27.88120460510254
+2024-09-01,Uttarakhand,Passenger Transport,474.4173278808594
+2024-09-01,Uttarakhand,Passenger Vehicle,5848.365234375
+2024-09-01,Uttarakhand,Three Wheeler,689.5780029296875
+2024-09-01,Uttarakhand,Two Wheeler,22092.927734375
+2024-09-01,West Bengal,Goods Vehicle,3733.151611328125
+2024-09-01,West Bengal,Other Motor Vehicle,102.51734924316406
+2024-09-01,West Bengal,Passenger Transport,389.5669860839844
+2024-09-01,West Bengal,Passenger Vehicle,8228.4794921875
+2024-09-01,West Bengal,Three Wheeler,671.04296875
+2024-09-01,West Bengal,Two Wheeler,91154.5703125
+2024-10-01,Andaman And Nicobar Islands,Goods Vehicle,464.5235290527344
+2024-10-01,Andaman And Nicobar Islands,Other Motor Vehicle,188.19708251953125
+2024-10-01,Andaman And Nicobar Islands,Passenger Transport,1246.9254150390625
+2024-10-01,Andaman And Nicobar Islands,Passenger Vehicle,464.5235290527344
+2024-10-01,Andaman And Nicobar Islands,Three Wheeler,0.0
+2024-10-01,Andaman And Nicobar Islands,Two Wheeler,1749.9068603515625
+2024-10-01,Andhra Pradesh,Goods Vehicle,0.0
+2024-10-01,Andhra Pradesh,Other Motor Vehicle,1753.49755859375
+2024-10-01,Andhra Pradesh,Passenger Transport,1753.49755859375
+2024-10-01,Andhra Pradesh,Passenger Vehicle,9494.2099609375
+2024-10-01,Andhra Pradesh,Three Wheeler,6563.3203125
+2024-10-01,Andhra Pradesh,Two Wheeler,80777.28125
+2024-10-01,Arunachal Pradesh,Goods Vehicle,5382.388671875
+2024-10-01,Arunachal Pradesh,Other Motor Vehicle,0.0
+2024-10-01,Arunachal Pradesh,Passenger Transport,575.4511108398438
+2024-10-01,Arunachal Pradesh,Passenger Vehicle,10853.060546875
+2024-10-01,Arunachal Pradesh,Three Wheeler,3912.912841796875
+2024-10-01,Arunachal Pradesh,Two Wheeler,90588.9140625
+2024-10-01,Assam,Goods Vehicle,4051.8212890625
+2024-10-01,Assam,Other Motor Vehicle,464.5235290527344
+2024-10-01,Assam,Passenger Transport,278.8843688964844
+2024-10-01,Assam,Passenger Vehicle,6421.79345703125
+2024-10-01,Assam,Three Wheeler,5800.5029296875
+2024-10-01,Assam,Two Wheeler,42788.31640625
+2024-10-01,Bihar,Goods Vehicle,4332.314453125
+2024-10-01,Bihar,Other Motor Vehicle,464.5235290527344
+2024-10-01,Bihar,Passenger Transport,45.23204040527344
+2024-10-01,Bihar,Passenger Vehicle,7832.74853515625
+2024-10-01,Bihar,Three Wheeler,9466.5517578125
+2024-10-01,Bihar,Two Wheeler,123031.9375
+2024-10-01,Chandigarh,Goods Vehicle,464.5235290527344
+2024-10-01,Chandigarh,Other Motor Vehicle,188.19708251953125
+2024-10-01,Chandigarh,Passenger Transport,1186.6512451171875
+2024-10-01,Chandigarh,Passenger Vehicle,1072.775634765625
+2024-10-01,Chandigarh,Three Wheeler,464.5235290527344
+2024-10-01,Chandigarh,Two Wheeler,2225.0009765625
+2024-10-01,Chhattisgarh,Goods Vehicle,3723.2578125
+2024-10-01,Chhattisgarh,Other Motor Vehicle,464.5235290527344
+2024-10-01,Chhattisgarh,Passenger Transport,45.23204040527344
+2024-10-01,Chhattisgarh,Passenger Vehicle,9360.9794921875
+2024-10-01,Chhattisgarh,Three Wheeler,642.9327392578125
+2024-10-01,Chhattisgarh,Two Wheeler,44797.53125
+2024-10-01,Delhi,Goods Vehicle,567.3070068359375
+2024-10-01,Delhi,Other Motor Vehicle,188.19708251953125
+2024-10-01,Delhi,Passenger Transport,45.23204040527344
+2024-10-01,Delhi,Passenger Vehicle,21058.767578125
+2024-10-01,Delhi,Three Wheeler,4250.16943359375
+2024-10-01,Delhi,Two Wheeler,37813.96484375
+2024-10-01,Goa,Goods Vehicle,45.23204040527344
+2024-10-01,Goa,Other Motor Vehicle,188.19708251953125
+2024-10-01,Goa,Passenger Transport,511.9150695800781
+2024-10-01,Goa,Passenger Vehicle,519.4974365234375
+2024-10-01,Goa,Three Wheeler,464.5235290527344
+2024-10-01,Goa,Two Wheeler,4673.8671875
+2024-10-01,Gujarat,Goods Vehicle,4937.75537109375
+2024-10-01,Gujarat,Other Motor Vehicle,65.3788833618164
+2024-10-01,Gujarat,Passenger Transport,65.3788833618164
+2024-10-01,Gujarat,Passenger Vehicle,35115.08984375
+2024-10-01,Gujarat,Three Wheeler,5800.5029296875
+2024-10-01,Gujarat,Two Wheeler,90308.34375
+2024-10-01,Haryana,Goods Vehicle,4360.423828125
+2024-10-01,Haryana,Other Motor Vehicle,464.5235290527344
+2024-10-01,Haryana,Passenger Transport,613.037841796875
+2024-10-01,Haryana,Passenger Vehicle,34061.65234375
+2024-10-01,Haryana,Three Wheeler,4051.8212890625
+2024-10-01,Haryana,Two Wheeler,42088.89453125
+2024-10-01,Himachal Pradesh,Goods Vehicle,642.9327392578125
+2024-10-01,Himachal Pradesh,Other Motor Vehicle,464.5235290527344
+2024-10-01,Himachal Pradesh,Passenger Transport,231.4928741455078
+2024-10-01,Himachal Pradesh,Passenger Vehicle,4975.0224609375
+2024-10-01,Himachal Pradesh,Three Wheeler,249.07919311523438
+2024-10-01,Himachal Pradesh,Two Wheeler,6909.68017578125
+2024-10-01,Jammu And Kashmir,Goods Vehicle,364.6956787109375
+2024-10-01,Jammu And Kashmir,Other Motor Vehicle,0.0
+2024-10-01,Jammu And Kashmir,Passenger Transport,511.9150695800781
+2024-10-01,Jammu And Kashmir,Passenger Vehicle,4123.4248046875
+2024-10-01,Jammu And Kashmir,Three Wheeler,642.9327392578125
+2024-10-01,Jammu And Kashmir,Two Wheeler,8362.2412109375
+2024-10-01,Jharkhand,Goods Vehicle,1913.7823486328125
+2024-10-01,Jharkhand,Other Motor Vehicle,17.987388610839844
+2024-10-01,Jharkhand,Passenger Transport,464.5235290527344
+2024-10-01,Jharkhand,Passenger Vehicle,3813.356689453125
+2024-10-01,Jharkhand,Three Wheeler,910.6834716796875
+2024-10-01,Jharkhand,Two Wheeler,43464.42578125
+2024-10-01,Karnataka,Goods Vehicle,4938.2138671875
+2024-10-01,Karnataka,Other Motor Vehicle,45.23204040527344
+2024-10-01,Karnataka,Passenger Transport,508.89599609375
+2024-10-01,Karnataka,Passenger Vehicle,35561.47265625
+2024-10-01,Karnataka,Three Wheeler,5772.81005859375
+2024-10-01,Karnataka,Two Wheeler,127970.9375
+2024-10-01,Kerala,Goods Vehicle,1297.2564697265625
+2024-10-01,Kerala,Other Motor Vehicle,282.6264343261719
+2024-10-01,Kerala,Passenger Transport,740.0451049804688
+2024-10-01,Kerala,Passenger Vehicle,20486.072265625
+2024-10-01,Kerala,Three Wheeler,2501.9365234375
+2024-10-01,Kerala,Two Wheeler,50076.3203125
+2024-10-01,Ladakh,Goods Vehicle,332.28167724609375
+2024-10-01,Ladakh,Other Motor Vehicle,188.19708251953125
+2024-10-01,Ladakh,Passenger Transport,235.58859252929688
+2024-10-01,Ladakh,Passenger Vehicle,464.5235290527344
+2024-10-01,Ladakh,Three Wheeler,60.75409698486328
+2024-10-01,Ladakh,Two Wheeler,671.858642578125
+2024-10-01,Madhya Pradesh,Goods Vehicle,3723.2578125
+2024-10-01,Madhya Pradesh,Other Motor Vehicle,464.5235290527344
+2024-10-01,Madhya Pradesh,Passenger Transport,201.6876678466797
+2024-10-01,Madhya Pradesh,Passenger Vehicle,28071.435546875
+2024-10-01,Madhya Pradesh,Three Wheeler,4329.51953125
+2024-10-01,Madhya Pradesh,Two Wheeler,110518.8203125
+2024-10-01,Maharashtra,Goods Vehicle,7571.8388671875
+2024-10-01,Maharashtra,Other Motor Vehicle,449.16754150390625
+2024-10-01,Maharashtra,Passenger Transport,464.33294677734375
+2024-10-01,Maharashtra,Passenger Vehicle,54533.68359375
+2024-10-01,Maharashtra,Three Wheeler,4746.859375
+2024-10-01,Maharashtra,Two Wheeler,166882.03125
+2024-10-01,Manipur,Goods Vehicle,464.5235290527344
+2024-10-01,Manipur,Other Motor Vehicle,188.19708251953125
+2024-10-01,Manipur,Passenger Transport,188.19708251953125
+2024-10-01,Manipur,Passenger Vehicle,278.8843688964844
+2024-10-01,Manipur,Three Wheeler,511.9150695800781
+2024-10-01,Manipur,Two Wheeler,2123.91650390625
+2024-10-01,Meghalaya,Goods Vehicle,45.23204040527344
+2024-10-01,Meghalaya,Other Motor Vehicle,188.19708251953125
+2024-10-01,Meghalaya,Passenger Transport,17.987388610839844
+2024-10-01,Meghalaya,Passenger Vehicle,642.9327392578125
+2024-10-01,Meghalaya,Three Wheeler,201.6876678466797
+2024-10-01,Meghalaya,Two Wheeler,4551.35498046875
+2024-10-01,Mizoram,Goods Vehicle,136.67428588867188
+2024-10-01,Mizoram,Other Motor Vehicle,306.88397216796875
+2024-10-01,Mizoram,Passenger Transport,306.88397216796875
+2024-10-01,Mizoram,Passenger Vehicle,163.91893005371094
+2024-10-01,Mizoram,Three Wheeler,184.06578063964844
+2024-10-01,Mizoram,Two Wheeler,2321.65966796875
+2024-10-01,Nagaland,Goods Vehicle,321.1257629394531
+2024-10-01,Nagaland,Other Motor Vehicle,45.23204040527344
+2024-10-01,Nagaland,Passenger Transport,334.46649169921875
+2024-10-01,Nagaland,Passenger Vehicle,642.9327392578125
+2024-10-01,Nagaland,Three Wheeler,464.5235290527344
+2024-10-01,Nagaland,Two Wheeler,1501.627685546875
+2024-10-01,Odisha,Goods Vehicle,3536.9970703125
+2024-10-01,Odisha,Other Motor Vehicle,17.987388610839844
+2024-10-01,Odisha,Passenger Transport,332.28167724609375
+2024-10-01,Odisha,Passenger Vehicle,9360.9794921875
+2024-10-01,Odisha,Three Wheeler,1424.45556640625
+2024-10-01,Odisha,Two Wheeler,72207.8203125
+2024-10-01,Puducherry,Goods Vehicle,511.9150695800781
+2024-10-01,Puducherry,Other Motor Vehicle,188.19708251953125
+2024-10-01,Puducherry,Passenger Transport,17.987388610839844
+2024-10-01,Puducherry,Passenger Vehicle,642.9327392578125
+2024-10-01,Puducherry,Three Wheeler,511.9150695800781
+2024-10-01,Puducherry,Two Wheeler,5913.5439453125
+2024-10-01,Punjab,Goods Vehicle,1210.065185546875
+2024-10-01,Punjab,Other Motor Vehicle,17.987388610839844
+2024-10-01,Punjab,Passenger Transport,449.16754150390625
+2024-10-01,Punjab,Passenger Vehicle,22437.357421875
+2024-10-01,Punjab,Three Wheeler,4051.8212890625
+2024-10-01,Punjab,Two Wheeler,39257.8046875
+2024-10-01,Rajasthan,Goods Vehicle,108312.4921875
+2024-10-01,Rajasthan,Other Motor Vehicle,2948.09033203125
+2024-10-01,Rajasthan,Passenger Transport,8443.26953125
+2024-10-01,Rajasthan,Passenger Vehicle,426548.21875
+2024-10-01,Rajasthan,Three Wheeler,144004.5
+2024-10-01,Rajasthan,Two Wheeler,1774344.125
+2024-10-01,Sikkim,Goods Vehicle,511.9150695800781
+2024-10-01,Sikkim,Other Motor Vehicle,188.19708251953125
+2024-10-01,Sikkim,Passenger Transport,60.75409698486328
+2024-10-01,Sikkim,Passenger Vehicle,613.037841796875
+2024-10-01,Sikkim,Two Wheeler,1779.8017578125
+2024-10-01,Tamil Nadu,Goods Vehicle,4155.31005859375
+2024-10-01,Tamil Nadu,Other Motor Vehicle,29.121957778930664
+2024-10-01,Tamil Nadu,Passenger Transport,626.8226318359375
+2024-10-01,Tamil Nadu,Passenger Vehicle,30872.091796875
+2024-10-01,Tamil Nadu,Three Wheeler,4034.72265625
+2024-10-01,Tamil Nadu,Two Wheeler,160157.546875
+2024-10-01,The Dadra And Nagar Haveli And Daman And Diu,Goods Vehicle,17.987388610839844
+2024-10-01,The Dadra And Nagar Haveli And Daman And Diu,Other Motor Vehicle,45.23204040527344
+2024-10-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Transport,20.724727630615234
+2024-10-01,The Dadra And Nagar Haveli And Daman And Diu,Passenger Vehicle,177.28314208984375
+2024-10-01,The Dadra And Nagar Haveli And Daman And Diu,Three Wheeler,511.9150695800781
+2024-10-01,The Dadra And Nagar Haveli And Daman And Diu,Two Wheeler,1779.8017578125
+2024-10-01,Tripura,Goods Vehicle,464.5235290527344
+2024-10-01,Tripura,Other Motor Vehicle,464.5235290527344
+2024-10-01,Tripura,Passenger Transport,17.987388610839844
+2024-10-01,Tripura,Passenger Vehicle,613.037841796875
+2024-10-01,Tripura,Three Wheeler,679.6842041015625
+2024-10-01,Tripura,Two Wheeler,5717.42578125
+2024-10-01,Uttar Pradesh,Goods Vehicle,5064.9833984375
+2024-10-01,Uttar Pradesh,Other Motor Vehicle,45.23204040527344
+2024-10-01,Uttar Pradesh,Passenger Transport,177.28314208984375
+2024-10-01,Uttar Pradesh,Passenger Vehicle,61605.2265625
+2024-10-01,Uttar Pradesh,Three Wheeler,29532.609375
+2024-10-01,Uttar Pradesh,Two Wheeler,304449.09375
+2024-10-01,Uttarakhand,Goods Vehicle,440.1833190917969
+2024-10-01,Uttarakhand,Other Motor Vehicle,123.2802734375
+2024-10-01,Uttarakhand,Passenger Transport,569.81640625
+2024-10-01,Uttarakhand,Passenger Vehicle,5943.76416015625
+2024-10-01,Uttarakhand,Three Wheeler,784.97705078125
+2024-10-01,Uttarakhand,Two Wheeler,22344.9375
+2024-10-01,West Bengal,Goods Vehicle,3723.2578125
+2024-10-01,West Bengal,Other Motor Vehicle,92.62352752685547
+2024-10-01,West Bengal,Passenger Transport,379.6731872558594
+2024-10-01,West Bengal,Passenger Vehicle,8218.5849609375
+2024-10-01,West Bengal,Three Wheeler,661.149169921875
+2024-10-01,West Bengal,Two Wheeler,91423.2890625
